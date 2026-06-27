@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Tarihi Kapalıçarşı Turu",
+    "category": "Tur & Gezi",
+    "description": "Profesyonel rehber eşliğinde Kapalıçarşı ve tarihi yarımada turu. Erken rezervasyonda %20 indirim!",
+    "imageUrl": "",
+    "url": "https://www.getyourguide.com/istanbul-l56/",
+    "accentColor": "orange"
+  },
+  {
+    "id": "2",
+    "name": "Boğaz Tekne Turu",
+    "category": "Deniz Turu",
+    "description": "İstanbul Boğazı'nda gün batımı teknesi turu. Akşam yemeği dahil özel paketler mevcut.",
+    "imageUrl": "",
+    "url": "https://www.viator.com/Istanbul/d585-ttd",
+    "accentColor": "blue"
+  }
+]
