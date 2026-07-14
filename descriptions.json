@@ -108,7 +108,1155 @@
     "zh": "伊斯坦布尔的历史中心，周围环绕着举世闻名的地标和古迹。",
     "it": "Il cuore storico di Istanbul, circondato da monumenti famosi in tutto il mondo.",
     "ja": "世界的に有名な名所や記念碑に囲まれた、イスタンブールの歴史の中心地。"
+  },
+    "Süleymaniye Camii": {
+    "de": "Eines der größten Meisterwerke des Architekten Sinan, das seit 1558 die Silhouette Istanbuls prägt.",
+    "ru": "Один из величайших шедевров архитектора Синана, украшающий силуэт Стамбула с 1558 года.",
+    "ar": "إحدى أعظم روائع المعماري سنان، تهيمن على أفق إسطنبول منذ عام 1558.",
+    "fr": "L'un des plus grands chefs-d'œuvre de l'architecte Sinan, dominant l'horizon d'Istanbul depuis 1558.",
+    "es": "Una de las mayores obras maestras del arquitecto Sinan, dominando el horizonte de Estambul desde 1558.",
+    "zh": "建筑大师锡南最伟大的杰作之一，自1558年以来一直屹立于伊斯坦布尔的天际线。",
+    "it": "Uno dei più grandi capolavori dell'architetto Sinan, che domina lo skyline di Istanbul dal 1558.",
+    "ja": "建築家スィナンの最高傑作の一つ。1558年以来イスタンブールのスカイラインを彩る。"
+  },
+  "Şehzade Camii": {
+    "de": "Bekannt als Sinans Lehrlingswerk, wurde diese elegante Moschee im 16. Jahrhundert erbaut.",
+    "ru": "Известная как ученическая работа Синана, эта изящная мечеть была построена в XVI веке.",
+    "ar": "تُعرف بأنها من أعمال سنان المبكرة، وقد بُني هذا المسجد الأنيق في القرن السادس عشر.",
+    "fr": "Connue comme l'œuvre d'apprentissage de Sinan, cette élégante mosquée fut construite au XVIe siècle.",
+    "es": "Conocida como la obra de aprendizaje de Sinan, esta elegante mezquita fue construida en el siglo XVI.",
+    "zh": "被誉为锡南的学徒之作，这座优雅的清真寺建于16世纪。",
+    "it": "Conosciuta come l'opera di apprendistato di Sinan, questa elegante moschea fu costruita nel XVI secolo.",
+    "ja": "スィナンの修業時代の作品として知られる、16世紀に建てられた優美なモスク。"
+  },
+  "Ayasofya": {
+    "de": "Eines der bedeutendsten historischen Bauwerke der Welt, ein Meisterwerk byzantinischer Architektur aus dem Jahr 537.",
+    "ru": "Одно из величайших исторических зданий мира, шедевр византийской архитектуры, построенный в 537 году.",
+    "ar": "أحد أعظم المباني التاريخية في العالم، تحفة من العمارة البيزنطية بُنيت عام 537 ميلادي.",
+    "fr": "L'un des plus grands édifices historiques du monde, chef-d'œuvre de l'architecture byzantine construit en 537.",
+    "es": "Uno de los edificios históricos más importantes del mundo, obra maestra de la arquitectura bizantina construida en el año 537.",
+    "zh": "世界上最伟大的历史建筑之一，建于公元537年的拜占庭建筑杰作。",
+    "it": "Uno dei più grandi edifici storici del mondo, capolavoro dell'architettura bizantina costruito nel 537 d.C.",
+    "ja": "537年に建てられたビザンツ建築の傑作であり、世界で最も偉大な歴史的建造物の一つ。"
+  },
+  "Beylerbeyi Sarayı": {
+    "de": "Ein wunderschöner osmanischer Palast am asiatischen Ufer des Bosporus mit herrlichem Blick aufs Wasser.",
+    "ru": "Прекрасный османский дворец на азиатском берегу Босфора с чудесным видом на воду.",
+    "ar": "قصر عثماني جميل على الضفة الآسيوية للبوسفور بإطلالات ساحرة على الواجهة المائية.",
+    "fr": "Un magnifique palais ottoman sur la rive asiatique du Bosphore, avec de superbes vues sur l'eau.",
+    "es": "Un hermoso palacio otomano en la orilla asiática del Bósforo con impresionantes vistas al mar.",
+    "zh": "位于博斯普鲁斯海峡亚洲岸边的美丽奥斯曼宫殿，坐拥迷人的海滨景色。",
+    "it": "Un bellissimo palazzo ottomano sulla sponda asiatica del Bosforo con splendide viste sull'acqua.",
+    "ja": "ボスポラス海峡のアジア側に建つ美しいオスマン宮殿。水辺の絶景が広がる。"
+  },
+  "Rumeli Hisarı": {
+    "de": "Eine prächtige Festung, erbaut von Sultan Mehmet II. vor der Eroberung Konstantinopels.",
+    "ru": "Величественная крепость, построенная султаном Мехмедом II перед завоеванием Константинополя.",
+    "ar": "قلعة رائعة بناها السلطان محمد الثاني قبل فتح القسطنطينية.",
+    "fr": "Une magnifique forteresse construite par le sultan Mehmet II avant la conquête de Constantinople.",
+    "es": "Una magnífica fortaleza construida por el sultán Mehmet II antes de la conquista de Constantinopla.",
+    "zh": "由苏丹穆罕默德二世在征服君士坦丁堡之前建造的宏伟要塞。",
+    "it": "Una magnifica fortezza costruita dal sultano Mehmet II prima della conquista di Costantinopoli.",
+    "ja": "コンスタンティノープル征服の前にメフメト2世によって築かれた壮大な要塞。"
+  },
+  "Sultanahmet Camii": {
+    "de": "Auch als Blaue Moschee bekannt, berühmt für ihre atemberaubenden Fliesen und sechs Minarette.",
+    "ru": "Известная также как Голубая мечеть, славится потрясающей изразцовой отделкой и шестью минаретами.",
+    "ar": "يُعرف أيضاً بالمسجد الأزرق، ويشتهر ببلاطه الداخلي المذهل ومآذنه الست.",
+    "fr": "Également connue sous le nom de Mosquée Bleue, célèbre pour ses superbes carreaux de faïence et ses six minarets.",
+    "es": "También conocida como la Mezquita Azul, famosa por sus impresionantes azulejos interiores y sus seis minaretes.",
+    "zh": "又称蓝色清真寺，以其精美的内部瓷砖装饰和六座宣礼塔而闻名。",
+    "it": "Conosciuta anche come Moschea Blu, famosa per le splendide piastrelle interne e i sei minareti.",
+    "ja": "ブルーモスクの名でも知られ、美しい内装タイルと6本のミナレットで有名。"
+  },
+  "Yedikule Zindanları": {
+    "de": "Eine antike Befestigungsanlage und ehemaliges Gefängnis, Teil der historischen Stadtmauern Istanbuls.",
+    "ru": "Древнее укрепление и бывшая тюрьма, часть исторических городских стен Стамбула.",
+    "ar": "تحصينات قديمة وسجن سابق، جزء من أسوار إسطنبول التاريخية.",
+    "fr": "Une ancienne fortification et ancienne prison, faisant partie des remparts historiques d'Istanbul.",
+    "es": "Una antigua fortificación y antigua prisión, parte de las murallas históricas de Estambul.",
+    "zh": "古老的防御工事和昔日的监狱，是伊斯坦布尔历史城墙的一部分。",
+    "it": "Un'antica fortificazione ed ex prigione, parte delle storiche mura cittadine di Istanbul.",
+    "ja": "イスタンブールの歴史的城壁の一部である古代の要塞跡。かつては牢獄でもあった。"
+  },
+  "Fener": {
+    "de": "Ein historisches Viertel, bekannt für seine bunten Häuser und griechisch-orthodoxe Architektur.",
+    "ru": "Исторический район, известный разноцветными домами и греко-православной архитектурой.",
+    "ar": "حي تاريخي معروف بمنازله الملونة وعمارته اليونانية الأرثوذكسية.",
+    "fr": "Un quartier historique connu pour ses maisons colorées et son architecture grecque orthodoxe.",
+    "es": "Un barrio histórico conocido por sus casas coloridas y su arquitectura griega ortodoxa.",
+    "zh": "以彩色房屋和希腊东正教建筑闻名的历史街区。",
+    "it": "Un quartiere storico noto per le case colorate e l'architettura greco-ortodossa.",
+    "ja": "カラフルな家々とギリシャ正教の建築で知られる歴史地区。"
+  },
+  "Yıldız Sarayı": {
+    "de": "Einer der bedeutendsten osmanischen Paläste aus der Regierungszeit von Sultan Abdülhamid II.",
+    "ru": "Один из важнейших османских дворцов эпохи правления султана Абдул-Хамида II.",
+    "ar": "أحد أهم القصور العثمانية من عهد السلطان عبد الحميد الثاني.",
+    "fr": "L'un des palais ottomans les plus importants du règne du sultan Abdülhamid II.",
+    "es": "Uno de los palacios otomanos más importantes del reinado del sultán Abdülhamid II.",
+    "zh": "苏丹阿卜杜勒-哈米德二世统治时期最重要的奥斯曼宫殿之一。",
+    "it": "Uno dei più importanti palazzi ottomani del regno del sultano Abdülhamid II.",
+    "ja": "スルタン・アブデュルハミト2世の治世を代表する重要なオスマン宮殿の一つ。"
+  },
+  "Dolmabahçe Sarayı": {
+    "de": "Der prachtvolle osmanische Palast am europäischen Ufer des Bosporus.",
+    "ru": "Великолепный османский дворец на европейском берегу Босфора.",
+    "ar": "القصر العثماني الفخم على الضفة الأوروبية للبوسفور.",
+    "fr": "Le somptueux palais ottoman sur la rive européenne du Bosphore.",
+    "es": "El magnífico palacio otomano en la orilla europea del Bósforo.",
+    "zh": "位于博斯普鲁斯海峡欧洲岸边的宏伟奥斯曼宫殿。",
+    "it": "Il magnifico palazzo ottomano sulla sponda europea del Bosforo.",
+    "ja": "ボスポラス海峡のヨーロッパ側に建つ壮麗なオスマン宮殿。"
+  },
+    "Kapalıçarşı": {
+    "de": "Einer der größten und ältesten überdachten Märkte der Welt mit über 4.000 Geschäften.",
+    "ru": "Один из крупнейших и старейших крытых рынков мира, насчитывающий более 4000 лавок.",
+    "ar": "أحد أكبر وأقدم الأسواق المسقوفة في العالم، يضم أكثر من 4000 متجر.",
+    "fr": "L'un des marchés couverts les plus grands et les plus anciens du monde, avec plus de 4 000 boutiques.",
+    "es": "Uno de los mercados cubiertos más grandes y antiguos del mundo, con más de 4.000 tiendas.",
+    "zh": "世界上最大最古老的室内集市之一，拥有4000多家店铺。",
+    "it": "Uno dei mercati coperti più grandi e antichi del mondo, con oltre 4.000 negozi.",
+    "ja": "4,000以上の店舗が並ぶ、世界最大級かつ最古の屋根付き市場の一つ。"
+  },
+  "Mısır Çarşısı": {
+    "de": "Der historische Gewürzbasar, gefüllt mit aromatischen Gewürzen und traditionellen türkischen Produkten.",
+    "ru": "Исторический Египетский базар, наполненный ароматными специями и традиционными турецкими товарами.",
+    "ar": "سوق التوابل التاريخي، مليء بالتوابل العطرية والمنتجات التركية التقليدية.",
+    "fr": "Le bazar égyptien historique, rempli d'épices aromatiques et de produits turcs traditionnels.",
+    "es": "El histórico Bazar de las Especias, lleno de especias aromáticas y productos tradicionales turcos.",
+    "zh": "历史悠久的香料集市，弥漫着芳香的香料和传统土耳其特产。",
+    "it": "Lo storico Bazar delle Spezie, ricco di spezie aromatiche e prodotti tradizionali turchi.",
+    "ja": "香り高いスパイスと伝統的なトルコ産品であふれる歴史あるスパイスバザール。"
+  },
+  "Çırağan Sarayı": {
+    "de": "Ein prächtiger osmanischer Palast am Bosporusufer, heute ein Luxushotel.",
+    "ru": "Великолепный османский дворец на берегу Босфора, ныне роскошный отель.",
+    "ar": "قصر عثماني فخم على شاطئ البوسفور، وهو اليوم فندق فاخر.",
+    "fr": "Un magnifique palais ottoman au bord du Bosphore, aujourd'hui un hôtel de luxe.",
+    "es": "Un magnífico palacio otomano a orillas del Bósforo, hoy un hotel de lujo.",
+    "zh": "博斯普鲁斯海峡岸边的宏伟奥斯曼宫殿，如今是一家豪华酒店。",
+    "it": "Un magnifico palazzo ottomano sulle rive del Bosforo, oggi un hotel di lusso.",
+    "ja": "ボスポラス海峡沿いに建つ壮麗なオスマン宮殿。現在は高級ホテル。"
+  },
+  "Küçüksu Kasrı": {
+    "de": "Ein eleganter osmanischer Pavillon am asiatischen Ufer des Bosporus.",
+    "ru": "Изящный османский павильон на азиатском берегу Босфора.",
+    "ar": "جناح عثماني أنيق على الضفة الآسيوية للبوسفور.",
+    "fr": "Un élégant pavillon ottoman sur la rive asiatique du Bosphore.",
+    "es": "Un elegante pabellón otomano en la orilla asiática del Bósforo.",
+    "zh": "位于博斯普鲁斯海峡亚洲岸边的典雅奥斯曼行宫。",
+    "it": "Un elegante padiglione ottomano sulla sponda asiatica del Bosforo.",
+    "ja": "ボスポラス海峡のアジア側に建つ優雅なオスマン様式の離宮。"
+  },
+  "Ihlamur Kasrı": {
+    "de": "Ein charmanter osmanischer Pavillon in Beşiktaş, umgeben von Lindenbäumen.",
+    "ru": "Очаровательный османский павильон в Бешикташе, окружённый липами.",
+    "ar": "جناح عثماني ساحر في بشكتاش، تحيط به أشجار الزيزفون.",
+    "fr": "Un charmant pavillon ottoman à Beşiktaş, entouré de tilleuls.",
+    "es": "Un encantador pabellón otomano en Beşiktaş, rodeado de tilos.",
+    "zh": "隐匿于贝西克塔什的迷人奥斯曼行宫，四周菩提树环绕。",
+    "it": "Un affascinante padiglione ottomano a Beşiktaş, circondato da tigli.",
+    "ja": "菩提樹に囲まれた、ベシクタシュに佇む魅力的なオスマン離宮。"
+  },
+  "Anadolu Hisarı": {
+    "de": "Eine historische Festung am asiatischen Bosporusufer, älter als Rumeli Hisarı.",
+    "ru": "Историческая крепость на азиатском берегу Босфора, построенная раньше Румелихисары.",
+    "ar": "قلعة تاريخية على الضفة الآسيوية للبوسفور، أقدم من قلعة روملي حصار.",
+    "fr": "Une forteresse historique sur la rive asiatique du Bosphore, antérieure à Rumeli Hisarı.",
+    "es": "Una fortaleza histórica en la orilla asiática del Bósforo, anterior a Rumeli Hisarı.",
+    "zh": "位于博斯普鲁斯海峡亚洲岸边的历史要塞，比如梅利堡垒更为古老。",
+    "it": "Una fortezza storica sulla sponda asiatica del Bosforo, precedente a Rumeli Hisarı.",
+    "ja": "ルメリ・ヒサルより古い、ボスポラス海峡アジア側の歴史的要塞。"
+  },
+  "Fatih Camii": {
+    "de": "Die erste große Moschee, die nach der Eroberung Istanbuls durch Sultan Mehmet II. erbaut wurde.",
+    "ru": "Первая большая мечеть, построенная после завоевания Стамбула султаном Мехмедом II.",
+    "ar": "أول مسجد كبير بُني بعد فتح إسطنبول على يد السلطان محمد الثاني.",
+    "fr": "La première grande mosquée construite après la conquête d'Istanbul par le sultan Mehmet II.",
+    "es": "La primera gran mezquita construida tras la conquista de Estambul por el sultán Mehmet II.",
+    "zh": "苏丹穆罕默德二世征服伊斯坦布尔后建造的第一座大清真寺。",
+    "it": "La prima grande moschea costruita dopo la conquista di Istanbul da parte del sultano Mehmet II.",
+    "ja": "メフメト2世によるイスタンブール征服後、最初に建てられた大モスク。"
+  },
+  "Yeni Cami": {
+    "de": "Die ikonische Neue Moschee von Eminönü, eines der bekanntesten Wahrzeichen Istanbuls.",
+    "ru": "Знаменитая Новая мечеть в Эминёню, один из самых узнаваемых символов Стамбула.",
+    "ar": "المسجد الجديد الشهير في أمين أونو، أحد أبرز معالم إسطنبول.",
+    "fr": "L'emblématique Nouvelle Mosquée d'Eminönü, l'un des monuments les plus reconnaissables d'Istanbul.",
+    "es": "La icónica Mezquita Nueva de Eminönü, uno de los monumentos más reconocibles de Estambul.",
+    "zh": "埃米诺努标志性的新清真寺，是伊斯坦布尔最具辨识度的地标之一。",
+    "it": "L'iconica Moschea Nuova di Eminönü, uno dei monumenti più riconoscibili di Istanbul.",
+    "ja": "エミノニュのシンボル的存在「ニューモスク」。イスタンブールを代表するランドマークの一つ。"
+  },
+  "Ortaköy Camii": {
+    "de": "Eine elegante Moschee direkt neben der Bosporusbrücke, eine der meistfotografierten Istanbuls.",
+    "ru": "Изящная мечеть прямо у Босфорского моста, одна из самых фотографируемых в Стамбуле.",
+    "ar": "مسجد أنيق بجوار جسر البوسفور مباشرة، من أكثر معالم إسطنبول تصويراً.",
+    "fr": "Une élégante mosquée juste à côté du pont du Bosphore, l'une des plus photographiées d'Istanbul.",
+    "es": "Una elegante mezquita justo al lado del puente del Bósforo, una de las más fotografiadas de Estambul.",
+    "zh": "紧邻博斯普鲁斯大桥的优雅清真寺，是伊斯坦布尔最上镜的景点之一。",
+    "it": "Un'elegante moschea proprio accanto al ponte sul Bosforo, una delle più fotografate di Istanbul.",
+    "ja": "ボスポラス大橋のすぐそばに建つ優美なモスク。イスタンブールで最も撮影される風景の一つ。"
+  },
+  "Beyazıt Camii": {
+    "de": "Eine der ältesten osmanischen Moscheen Istanbuls, erbaut im frühen 16. Jahrhundert.",
+    "ru": "Одна из старейших османских мечетей Стамбула, построенная в начале XVI века.",
+    "ar": "أحد أقدم المساجد العثمانية في إسطنبول، بُني في أوائل القرن السادس عشر.",
+    "fr": "L'une des plus anciennes mosquées ottomanes d'Istanbul, construite au début du XVIe siècle.",
+    "es": "Una de las mezquitas otomanas más antiguas de Estambul, construida a principios del siglo XVI.",
+    "zh": "伊斯坦布尔最古老的奥斯曼清真寺之一，建于16世纪初。",
+    "it": "Una delle più antiche moschee ottomane di Istanbul, costruita all'inizio del XVI secolo.",
+    "ja": "16世紀初頭に建てられた、イスタンブール最古級のオスマン・モスク。"
+  },
+    "Rüstem Paşa Camii": {
+    "de": "Eine kleine, aber exquisite Moschee von Mimar Sinan, geschmückt mit prächtigen Iznik-Fliesen.",
+    "ru": "Небольшая, но изысканная мечеть Мимара Синана, украшенная великолепными изникскими изразцами.",
+    "ar": "مسجد صغير لكنه رائع من تصميم المعماري سنان، مزين ببلاط إزنيق المذهل.",
+    "fr": "Une petite mosquée exquise de Mimar Sinan, ornée de superbes carreaux d'Iznik.",
+    "es": "Una mezquita pequeña pero exquisita de Mimar Sinan, adornada con impresionantes azulejos de Iznik.",
+    "zh": "由建筑大师锡南设计的小而精美的清真寺，饰有绚丽的伊兹尼克瓷砖。",
+    "it": "Una moschea piccola ma squisita di Mimar Sinan, adornata con splendide piastrelle di Iznik.",
+    "ja": "スィナン設計の小さいながらも精緻なモスク。見事なイズニックタイルで装飾されている。"
+  },
+  "Pera Müzesi": {
+    "de": "Ein Museum in Beyoğlu mit osmanischen und zeitgenössischen Kunstsammlungen.",
+    "ru": "Музей в Бейоглу с коллекциями османского и современного искусства.",
+    "ar": "متحف في بي أوغلو يعرض مجموعات من الفن العثماني والمعاصر.",
+    "fr": "Un musée à Beyoğlu présentant des collections d'art ottoman et contemporain.",
+    "es": "Un museo en Beyoğlu que exhibe colecciones de arte otomano y contemporáneo.",
+    "zh": "位于贝伊奥卢的博物馆，展示奥斯曼艺术与当代艺术收藏。",
+    "it": "Un museo a Beyoğlu che espone collezioni d'arte ottomana e contemporanea.",
+    "ja": "オスマン美術と現代美術のコレクションを展示するベイオール地区の美術館。"
+  },
+  "Sakıp Sabancı Müzesi": {
+    "de": "Ein Kunstmuseum in Emirgan mit herrlichem Bosporusblick und erstklassigen Ausstellungen.",
+    "ru": "Художественный музей в Эмиргане с прекрасным видом на Босфор и первоклассными выставками.",
+    "ar": "متحف فني في أميرغان بإطلالات خلابة على البوسفور ومعارض عالمية المستوى.",
+    "fr": "Un musée d'art à Emirgan avec de superbes vues sur le Bosphore et des expositions de classe mondiale.",
+    "es": "Un museo de arte en Emirgan con impresionantes vistas del Bósforo y exposiciones de primer nivel.",
+    "zh": "位于埃米尔甘的艺术博物馆，坐拥迷人的海峡景色和世界级展览。",
+    "it": "Un museo d'arte a Emirgan con splendide viste sul Bosforo e mostre di livello mondiale.",
+    "ja": "エミルガンにある美術館。ボスポラス海峡の絶景と世界クラスの展覧会が楽しめる。"
+  },
+  "İstanbul Modern": {
+    "de": "Das erste Museum für moderne Kunst der Türkei mit zeitgenössischer türkischer und internationaler Kunst.",
+    "ru": "Первый музей современного искусства Турции, представляющий турецкое и международное искусство.",
+    "ar": "أول متحف للفن الحديث في تركيا، يعرض الفن التركي والعالمي المعاصر.",
+    "fr": "Le premier musée d'art moderne de Turquie, présentant l'art contemporain turc et international.",
+    "es": "El primer museo de arte moderno de Turquía, con arte contemporáneo turco e internacional.",
+    "zh": "土耳其第一座现代艺术博物馆，展示土耳其及国际当代艺术。",
+    "it": "Il primo museo d'arte moderna della Turchia, con arte contemporanea turca e internazionale.",
+    "ja": "トルコ初の近代美術館。トルコと世界の現代アートを展示。"
+  },
+  "Deniz Müzesi": {
+    "de": "Ein Museum zur osmanischen und türkischen Marinegeschichte mit beeindruckenden Exponaten.",
+    "ru": "Музей, посвящённый османской и турецкой военно-морской истории, с впечатляющими экспонатами.",
+    "ar": "متحف مخصص لتاريخ البحرية العثمانية والتركية مع قطع أثرية مميزة.",
+    "fr": "Un musée consacré à l'histoire navale ottomane et turque avec des pièces impressionnantes.",
+    "es": "Un museo dedicado a la historia naval otomana y turca con impresionantes artefactos.",
+    "zh": "致力于展示奥斯曼与土耳其海军历史的博物馆，藏品令人印象深刻。",
+    "it": "Un museo dedicato alla storia navale ottomana e turca con reperti straordinari.",
+    "ja": "オスマン帝国とトルコの海軍史を伝える博物館。見応えある展示品が並ぶ。"
+  },
+  "Türk ve İslam Eserleri Müzesi": {
+    "de": "Eine der weltweit reichsten Sammlungen islamischer Kunst und Artefakte.",
+    "ru": "Одна из богатейших в мире коллекций исламского искусства и артефактов.",
+    "ar": "واحدة من أغنى مجموعات الفن والتحف الإسلامية في العالم.",
+    "fr": "L'une des plus riches collections d'art et d'objets islamiques au monde.",
+    "es": "Una de las colecciones más ricas del mundo de arte y artefactos islámicos.",
+    "zh": "世界上最丰富的伊斯兰艺术与文物收藏之一。",
+    "it": "Una delle più ricche collezioni al mondo di arte e manufatti islamici.",
+    "ja": "世界有数の豊かなイスラム美術・工芸コレクション。"
+  },
+  "Rahmi Koç Müzesi": {
+    "de": "Ein unterhaltsames Museum zur Verkehrs- und Industriegeschichte.",
+    "ru": "Увлекательный музей, посвящённый истории транспорта и промышленности.",
+    "ar": "متحف ممتع مخصص لتاريخ النقل والصناعة.",
+    "fr": "Un musée divertissant consacré à l'histoire des transports et de l'industrie.",
+    "es": "Un museo entretenido dedicado a la historia del transporte y la industria.",
+    "zh": "一座妙趣横生的博物馆，展示交通与工业发展史。",
+    "it": "Un museo divertente dedicato alla storia dei trasporti e dell'industria.",
+    "ja": "交通と産業の歴史をテーマにした楽しい博物館。"
+  },
+  "Pierre Loti Tepesi": {
+    "de": "Ein historischer Hügel, berühmt für seinen atemberaubenden Blick über das Goldene Horn.",
+    "ru": "Исторический холм, знаменитый потрясающим видом на бухту Золотой Рог.",
+    "ar": "تلة تاريخية تشتهر بإطلالتها الخلابة على القرن الذهبي.",
+    "fr": "Une colline historique célèbre pour sa vue imprenable sur la Corne d'Or.",
+    "es": "Una colina histórica famosa por sus impresionantes vistas del Cuerno de Oro.",
+    "zh": "历史悠久的山丘，以俯瞰金角湾的绝美景色而闻名。",
+    "it": "Una collina storica famosa per la vista mozzafiato sul Corno d'Oro.",
+    "ja": "金角湾を一望する絶景で名高い歴史ある丘。"
+  },
+  "Çamlıca Tepesi": {
+    "de": "Ein Hügel mit dem panoramareichsten Blick über Istanbul auf beiden Kontinenten.",
+    "ru": "Холм, с которого открывается самый панорамный вид на Стамбул на двух континентах.",
+    "ar": "تلة توفر أوسع إطلالة بانورامية على إسطنبول عبر القارتين.",
+    "fr": "Une colline offrant la vue la plus panoramique d'Istanbul sur les deux continents.",
+    "es": "Una colina que ofrece las vistas más panorámicas de Estambul en ambos continentes.",
+    "zh": "可将横跨两大洲的伊斯坦布尔全景尽收眼底的山丘。",
+    "it": "Una collina che offre la vista più panoramica di Istanbul su entrambi i continenti.",
+    "ja": "二大陸にまたがるイスタンブールを一望できる、最高のパノラマスポット。"
+  },
+  "Galata Köprüsü": {
+    "de": "Die ikonische Brücke über das Goldene Horn, berühmt für ihre Angler und herrlichen Ausblicke.",
+    "ru": "Знаменитый мост через Золотой Рог, известный рыбаками и прекрасными видами.",
+    "ar": "الجسر الشهير فوق القرن الذهبي، معروف بصيادي السمك وإطلالاته الرائعة.",
+    "fr": "Le pont emblématique sur la Corne d'Or, célèbre pour ses pêcheurs et ses vues magnifiques.",
+    "es": "El icónico puente sobre el Cuerno de Oro, famoso por sus pescadores y sus impresionantes vistas.",
+    "zh": "横跨金角湾的标志性大桥，以垂钓者和迷人景色著称。",
+    "it": "L'iconico ponte sul Corno d'Oro, famoso per i pescatori e le viste incantevoli.",
+    "ja": "金角湾に架かる象徴的な橋。釣り人たちと美しい眺めで知られる。"
+  },
+    "Fethi Paşa Korusu": {
+    "de": "Ein ruhiger Waldpark auf der asiatischen Seite mit schönem Bosporusblick.",
+    "ru": "Тихий лесопарк на азиатской стороне с прекрасным видом на Босфор.",
+    "ar": "حديقة غابات هادئة على الجانب الآسيوي بإطلالات جميلة على البوسفور.",
+    "fr": "Un parc boisé tranquille sur la rive asiatique offrant de belles vues sur le Bosphore.",
+    "es": "Un tranquilo parque boscoso en el lado asiático con hermosas vistas del Bósforo.",
+    "zh": "位于亚洲一侧的宁静林间公园，可欣赏美丽的海峡景色。",
+    "it": "Un tranquillo parco boschivo sulla sponda asiatica con belle viste sul Bosforo.",
+    "ja": "アジア側にある静かな森林公園。美しいボスポラスの眺めが広がる。"
+  },
+  "Anadolu Kavağı": {
+    "de": "Ein charmantes Fischerdorf am Ende des Bosporus mit herrlichen Ausblicken.",
+    "ru": "Очаровательная рыбацкая деревня в конце Босфора с чудесными видами.",
+    "ar": "قرية صيد ساحرة عند نهاية البوسفور بإطلالات خلابة.",
+    "fr": "Un charmant village de pêcheurs au bout du Bosphore avec des vues splendides.",
+    "es": "Un encantador pueblo pesquero al final del Bósforo con vistas impresionantes.",
+    "zh": "位于博斯普鲁斯海峡尽头的迷人渔村，风景如画。",
+    "it": "Un incantevole villaggio di pescatori alla fine del Bosforo con viste stupende.",
+    "ja": "ボスポラス海峡の突き当たりにある魅力的な漁村。素晴らしい景色が楽しめる。"
+  },
+  "Kadıköy": {
+    "de": "Das lebendigste und kosmopolitischste Viertel auf der asiatischen Seite Istanbuls.",
+    "ru": "Самый оживлённый и космополитичный район азиатской части Стамбула.",
+    "ar": "الحي الأكثر حيوية وتنوعاً على الجانب الآسيوي من إسطنبول.",
+    "fr": "Le quartier le plus vivant et cosmopolite de la rive asiatique d'Istanbul.",
+    "es": "El barrio más vibrante y cosmopolita del lado asiático de Estambul.",
+    "zh": "伊斯坦布尔亚洲一侧最具活力、最国际化的街区。",
+    "it": "Il quartiere più vivace e cosmopolita della sponda asiatica di Istanbul.",
+    "ja": "イスタンブールのアジア側で最も活気にあふれ、国際色豊かな地区。"
+  },
+  "Beşiktaş": {
+    "de": "Ein lebhaftes Viertel am Bosporusufer, bekannt für seinen Markt und die lokale Kultur.",
+    "ru": "Оживлённый район на берегу Босфора, известный своим рынком и местной культурой.",
+    "ar": "حي نابض بالحياة على شاطئ البوسفور، معروف بسوقه وثقافته المحلية.",
+    "fr": "Un quartier animé au bord du Bosphore, connu pour son marché et sa culture locale.",
+    "es": "Un barrio animado a orillas del Bósforo, conocido por su mercado y cultura local.",
+    "zh": "博斯普鲁斯海峡岸边充满活力的街区，以集市和本地文化闻名。",
+    "it": "Un vivace quartiere sulla riva del Bosforo, noto per il mercato e la cultura locale.",
+    "ja": "ボスポラス海峡沿いの活気ある地区。市場と地元文化で知られる。"
+  },
+  "Karaköy": {
+    "de": "Ein neu belebtes Hafenviertel, bekannt für Kunstgalerien, Cafés und Streetfood.",
+    "ru": "Обновлённый портовый район, известный художественными галереями, кафе и уличной едой.",
+    "ar": "منطقة ميناء متجددة تشتهر بمعارض الفنون والمقاهي وأطعمة الشوارع.",
+    "fr": "Un quartier portuaire revitalisé, connu pour ses galeries d'art, ses cafés et sa street food.",
+    "es": "Un distrito portuario revitalizado, conocido por sus galerías de arte, cafés y comida callejera.",
+    "zh": "焕然一新的港口区，以艺术画廊、咖啡馆和街头美食闻名。",
+    "it": "Un quartiere portuale rivitalizzato, noto per gallerie d'arte, caffè e street food.",
+    "ja": "再生された港湾地区。アートギャラリー、カフェ、ストリートフードで人気。"
+  },
+  "Bebek": {
+    "de": "Ein gehobenes Viertel am Bosporusufer, berühmt für seine Cafés und die Uferpromenade.",
+    "ru": "Престижный район на берегу Босфора, знаменитый кафе и набережной для прогулок.",
+    "ar": "حي راقٍ على شاطئ البوسفور، يشتهر بمقاهيه وممشاه البحري.",
+    "fr": "Un quartier chic au bord du Bosphore, célèbre pour ses cafés et sa promenade en bord de mer.",
+    "es": "Un barrio exclusivo a orillas del Bósforo, famoso por sus cafés y su paseo marítimo.",
+    "zh": "博斯普鲁斯海峡沿岸的高档街区，以咖啡馆和海滨步道闻名。",
+    "it": "Un elegante quartiere sulla riva del Bosforo, famoso per i caffè e il lungomare.",
+    "ja": "ボスポラス海峡沿いの高級住宅街。カフェと海辺の遊歩道で有名。"
+  },
+  "Moda": {
+    "de": "Ein nostalgisches und künstlerisches Viertel in Kadıköy mit charmanten Straßen und Meerblick.",
+    "ru": "Ностальгический и артистичный район Кадыкёя с очаровательными улочками и видом на море.",
+    "ar": "حي عريق وفني في قاضي كوي بشوارع ساحرة وإطلالات على البحر.",
+    "fr": "Un quartier nostalgique et artistique de Kadıköy aux rues charmantes et avec vue sur la mer.",
+    "es": "Un barrio nostálgico y artístico en Kadıköy con calles encantadoras y vistas al mar.",
+    "zh": "卡德柯伊的怀旧艺术街区，街道迷人，可眺望大海。",
+    "it": "Un quartiere nostalgico e artistico di Kadıköy con strade affascinanti e vista sul mare.",
+    "ja": "カドゥキョイのノスタルジックで芸術的な地区。魅力的な通りと海の眺めが楽しめる。"
+  },
+  "Arnavutköy": {
+    "de": "Ein nostalgisches Bosporusviertel, berühmt für seine traditionellen Holzvillen.",
+    "ru": "Ностальгический район на Босфоре, знаменитый традиционными деревянными особняками.",
+    "ar": "حي عريق على البوسفور يشتهر بمنازله الخشبية التقليدية.",
+    "fr": "Un quartier nostalgique du Bosphore, célèbre pour ses demeures traditionnelles en bois.",
+    "es": "Un nostálgico barrio del Bósforo, famoso por sus mansiones tradicionales de madera.",
+    "zh": "博斯普鲁斯海峡沿岸的怀旧街区，以传统木制豪宅著称。",
+    "it": "Un nostalgico quartiere sul Bosforo, famoso per le tradizionali dimore in legno.",
+    "ja": "伝統的な木造邸宅で名高い、ボスポラス海峡沿いのノスタルジックな地区。"
+  },
+  "Çengelköy": {
+    "de": "Ein friedliches und historisches Viertel am asiatischen Ufer des Bosporus.",
+    "ru": "Спокойный исторический район на азиатском берегу Босфора.",
+    "ar": "حي هادئ وتاريخي على الضفة الآسيوية للبوسفور.",
+    "fr": "Un quartier paisible et historique sur la rive asiatique du Bosphore.",
+    "es": "Un barrio tranquilo e histórico en la orilla asiática del Bósforo.",
+    "zh": "博斯普鲁斯海峡亚洲岸边宁静而历史悠久的街区。",
+    "it": "Un quartiere tranquillo e storico sulla sponda asiatica del Bosforo.",
+    "ja": "ボスポラス海峡のアジア側にある、静かで歴史ある地区。"
+  },
+  "Sarıyer": {
+    "de": "Ein ruhiges Fischerviertel am nördlichen Ende des Bosporus.",
+    "ru": "Тихий рыбацкий район в северной части Босфора.",
+    "ar": "حي صيد هادئ في الطرف الشمالي من البوسفور.",
+    "fr": "Un paisible quartier de pêcheurs à l'extrémité nord du Bosphore.",
+    "es": "Un tranquilo barrio pesquero en el extremo norte del Bósforo.",
+    "zh": "位于博斯普鲁斯海峡北端的宁静渔业街区。",
+    "it": "Un tranquillo quartiere di pescatori all'estremità settentrionale del Bosforo.",
+    "ja": "ボスポラス海峡北端に位置する静かな漁師町。"
+  },
+    "Büyükada": {
+    "de": "Die größte der Prinzeninseln, berühmt für autofreie Straßen und viktorianische Villen.",
+    "ru": "Крупнейший из Принцевых островов, знаменитый улицами без автомобилей и викторианскими особняками.",
+    "ar": "أكبر جزر الأمراء، تشتهر بشوارعها الخالية من السيارات وقصورها الفيكتورية.",
+    "fr": "La plus grande des îles des Princes, célèbre pour ses rues sans voitures et ses villas victoriennes.",
+    "es": "La mayor de las Islas de los Príncipes, famosa por sus calles sin coches y sus mansiones victorianas.",
+    "zh": "王子群岛中最大的岛屿，以无车街道和维多利亚式豪宅闻名。",
+    "it": "La più grande delle Isole dei Principi, famosa per le strade senza auto e le ville vittoriane.",
+    "ja": "プリンセス諸島最大の島。車のない通りとビクトリア様式の邸宅で知られる。"
+  },
+  "Taksim Meydanı": {
+    "de": "Das Herz des modernen Istanbul, ein wichtiges Zentrum für Unterhaltung, Kultur und Verkehr.",
+    "ru": "Сердце современного Стамбула, крупный центр развлечений, культуры и транспорта.",
+    "ar": "قلب إسطنبول الحديثة، مركز رئيسي للترفيه والثقافة والمواصلات.",
+    "fr": "Le cœur de l'Istanbul moderne, un pôle majeur de divertissement, de culture et de transport.",
+    "es": "El corazón del Estambul moderno, un importante centro de entretenimiento, cultura y transporte.",
+    "zh": "现代伊斯坦布尔的心脏，娱乐、文化和交通的重要枢纽。",
+    "it": "Il cuore della Istanbul moderna, un importante centro di intrattenimento, cultura e trasporti.",
+    "ja": "現代イスタンブールの中心地。娯楽・文化・交通の一大拠点。"
+  },
+  "Yerebatan Sarnıcı": {
+    "de": "Die größte byzantinische unterirdische Zisterne Istanbuls, ein beeindruckendes unterirdisches Wunder.",
+    "ru": "Крупнейшая византийская подземная цистерна Стамбула, поразительное подземное чудо.",
+    "ar": "أكبر صهريج بيزنطي تحت الأرض في إسطنبول، أعجوبة مذهلة تحت سطح الأرض.",
+    "fr": "La plus grande citerne souterraine byzantine d'Istanbul, une merveille souterraine impressionnante.",
+    "es": "La mayor cisterna subterránea bizantina de Estambul, una impresionante maravilla subterránea.",
+    "zh": "伊斯坦布尔最大的拜占庭地下水宫，令人叹为观止的地下奇观。",
+    "it": "La più grande cisterna sotterranea bizantina di Istanbul, una meraviglia sotterranea impressionante.",
+    "ja": "イスタンブール最大のビザンツ時代の地下貯水槽。圧巻の地下世界が広がる。"
+  },
+  "Şerefiye Sarnıcı": {
+    "de": "Eine kürzlich entdeckte byzantinische Zisterne nahe dem Großen Basar mit beeindruckender Architektur.",
+    "ru": "Недавно открытая византийская цистерна близ Гранд-базара с потрясающей архитектурой.",
+    "ar": "صهريج بيزنطي اكتُشف حديثاً قرب البازار الكبير بعمارة مذهلة.",
+    "fr": "Une citerne byzantine récemment découverte près du Grand Bazar, à l'architecture époustouflante.",
+    "es": "Una cisterna bizantina recientemente descubierta cerca del Gran Bazar con una arquitectura impresionante.",
+    "zh": "大巴扎附近新发现的拜占庭地下水宫，建筑令人惊叹。",
+    "it": "Una cisterna bizantina scoperta di recente vicino al Gran Bazar, con un'architettura straordinaria.",
+    "ja": "グランドバザール近くで近年発見されたビザンツ時代の貯水槽。見事な建築が魅力。"
+  },
+  "Boğaz Köprüsü": {
+    "de": "Die ikonische Brücke, die zwei Kontinente verbindet, am schönsten bei Sonnenuntergang zu fotografieren.",
+    "ru": "Знаменитый мост, соединяющий два континента, лучше всего фотографировать на закате.",
+    "ar": "الجسر الشهير الذي يربط بين قارتين، وأجمل صوره عند غروب الشمس.",
+    "fr": "Le pont emblématique reliant deux continents, à photographier de préférence au coucher du soleil.",
+    "es": "El icónico puente que conecta dos continentes, ideal para fotografiar al atardecer.",
+    "zh": "连接两大洲的标志性大桥，日落时分最适合拍照。",
+    "it": "L'iconico ponte che collega due continenti, perfetto da fotografare al tramonto.",
+    "ja": "二つの大陸を結ぶ象徴的な橋。夕暮れ時の撮影が最高。"
+  },
+  "Eminönü Sahili": {
+    "de": "Einer der fotogensten Orte Istanbuls mit Blick auf die historische Halbinsel.",
+    "ru": "Одно из самых фотогеничных мест Стамбула с видом на исторический полуостров.",
+    "ar": "من أكثر الأماكن جمالاً للتصوير في إسطنبول بإطلالات على شبه الجزيرة التاريخية.",
+    "fr": "L'un des endroits les plus photogéniques d'Istanbul avec vue sur la péninsule historique.",
+    "es": "Uno de los lugares más fotogénicos de Estambul con vistas a la península histórica.",
+    "zh": "伊斯坦布尔最上镜的地点之一，可眺望历史半岛。",
+    "it": "Uno dei luoghi più fotogenici di Istanbul con vista sulla penisola storica.",
+    "ja": "歴史的半島を望む、イスタンブール屈指のフォトジェニックスポット。"
+  },
+  "Bebek Sahili": {
+    "de": "Eine friedliche Uferpromenade entlang des Bosporus im gehobenen Viertel Bebek.",
+    "ru": "Спокойная набережная вдоль Босфора в престижном районе Бебек.",
+    "ar": "ممشى هادئ على الواجهة البحرية للبوسفور في حي بيبك الراقي.",
+    "fr": "Une promenade paisible au bord du Bosphore dans le quartier chic de Bebek.",
+    "es": "Un tranquilo paseo marítimo a lo largo del Bósforo en el exclusivo barrio de Bebek.",
+    "zh": "位于高档贝贝克街区的宁静海滨步道，沿博斯普鲁斯海峡延伸。",
+    "it": "Una tranquilla passeggiata lungo il Bosforo nell'elegante quartiere di Bebek.",
+    "ja": "高級住宅街ベベックにある、ボスポラス海峡沿いの穏やかな遊歩道。"
+  },
+  "Moda Sahili": {
+    "de": "Ein malerischer Küstenweg in Kadıköy mit schönem Meerblick und frischer Meeresbrise.",
+    "ru": "Живописная прибрежная дорожка в Кадыкёе с прекрасным видом на море и свежим бризом.",
+    "ar": "ممشى ساحلي خلاب في قاضي كوي بإطلالات بحرية جميلة ونسيم منعش.",
+    "fr": "Une promenade côtière pittoresque à Kadıköy avec de belles vues sur la mer et une brise marine rafraîchissante.",
+    "es": "Un pintoresco paseo costero en Kadıköy con hermosas vistas al mar y brisa marina fresca.",
+    "zh": "卡德柯伊风景如画的海滨步道，海景优美，海风宜人。",
+    "it": "Una pittoresca passeggiata costiera a Kadıköy con belle viste sul mare e brezza fresca.",
+    "ja": "美しい海の眺めと爽やかな潮風が楽しめる、カドゥキョイの海岸遊歩道。"
+  },
+  "Kadıköy Sahili": {
+    "de": "Die beliebteste Uferpromenade auf der asiatischen Seite, perfekt für Abendspaziergänge.",
+    "ru": "Самая популярная набережная на азиатской стороне, идеальная для вечерних прогулок.",
+    "ar": "أشهر منطقة على الواجهة البحرية في الجانب الآسيوي، مثالية لنزهات المساء.",
+    "fr": "La promenade la plus populaire de la rive asiatique, parfaite pour les balades en soirée.",
+    "es": "El paseo marítimo más popular del lado asiático, perfecto para paseos vespertinos.",
+    "zh": "亚洲一侧最受欢迎的海滨区域，是傍晚散步的理想去处。",
+    "it": "Il lungomare più popolare della sponda asiatica, perfetto per passeggiate serali.",
+    "ja": "アジア側で最も人気の海辺エリア。夕方の散歩に最適。"
+  },
+  "Florya Sahili": {
+    "de": "Ein beliebter öffentlicher Strand auf der europäischen Seite Istanbuls am Marmarameer.",
+    "ru": "Популярный общественный пляж на европейской стороне Стамбула у Мраморного моря.",
+    "ar": "شاطئ عام شهير على الجانب الأوروبي من إسطنبول على بحر مرمرة.",
+    "fr": "Une plage publique populaire sur la rive européenne d'Istanbul, au bord de la mer de Marmara.",
+    "es": "Una popular playa pública en el lado europeo de Estambul junto al mar de Mármara.",
+    "zh": "伊斯坦布尔欧洲一侧临马尔马拉海的热门公共海滩。",
+    "it": "Una popolare spiaggia pubblica sul lato europeo di Istanbul, lungo il Mar di Marmara.",
+    "ja": "マルマラ海に面した、イスタンブールのヨーロッパ側にある人気の公共ビーチ。"
+  },
+    "Anadolu Kavağı Sahili": {
+    "de": "Ein friedlicher Fischerdorf-Strand am nördlichen Ende des Bosporus.",
+    "ru": "Спокойный пляж рыбацкой деревни в северной части Босфора.",
+    "ar": "شاطئ هادئ لقرية صيد في الطرف الشمالي من البوسفور.",
+    "fr": "Une plage paisible de village de pêcheurs à l'extrémité nord du Bosphore.",
+    "es": "Una tranquila playa de pueblo pesquero en el extremo norte del Bósforo.",
+    "zh": "位于博斯普鲁斯海峡北端的宁静渔村海滩。",
+    "it": "Una tranquilla spiaggia di villaggio di pescatori all'estremità nord del Bosforo.",
+    "ja": "ボスポラス海峡北端にある漁村ののどかな海辺。"
+  },
+  "Sokullu Mehmet Paşa Camii": {
+    "de": "Eine der elegantesten kleinen Moscheen von Mimar Sinan, bekannt für ihre Iznik-Fliesen.",
+    "ru": "Одна из самых изящных малых мечетей Мимара Синана, известная изникскими изразцами.",
+    "ar": "من أرقى مساجد المعماري سنان الصغيرة، تشتهر ببلاط إزنيق.",
+    "fr": "L'une des petites mosquées les plus élégantes de Mimar Sinan, connue pour ses carreaux d'Iznik.",
+    "es": "Una de las mezquitas pequeñas más elegantes de Mimar Sinan, conocida por sus azulejos de Iznik.",
+    "zh": "锡南最优雅的小型清真寺之一，以伊兹尼克瓷砖闻名。",
+    "it": "Una delle più eleganti piccole moschee di Mimar Sinan, nota per le piastrelle di Iznik.",
+    "ja": "イズニックタイルで知られる、スィナン設計の最も優美な小モスクの一つ。"
+  },
+  "Nuruosmaniye Camii": {
+    "de": "Eines der ersten Beispiele osmanischer Barockarchitektur, direkt neben dem Großen Basar.",
+    "ru": "Один из первых образцов османского барокко, рядом с Гранд-базаром.",
+    "ar": "من أوائل نماذج العمارة الباروكية العثمانية، بجوار البازار الكبير.",
+    "fr": "L'un des premiers exemples de l'architecture baroque ottomane, à côté du Grand Bazar.",
+    "es": "Uno de los primeros ejemplos de arquitectura barroca otomana, junto al Gran Bazar.",
+    "zh": "奥斯曼巴洛克建筑的最早典范之一，毗邻大巴扎。",
+    "it": "Uno dei primi esempi di architettura barocca ottomana, accanto al Gran Bazar.",
+    "ja": "グランドバザールに隣接する、オスマン・バロック建築の最初期の例の一つ。"
+  },
+  "Şakirin Camii": {
+    "de": "Eine markante moderne Moschee in Üsküdar, bekannt für ihr zeitgenössisches Design und ihre Beleuchtung.",
+    "ru": "Впечатляющая современная мечеть в Ускюдаре, известная современным дизайном и освещением.",
+    "ar": "مسجد حديث مميز في أسكودار، معروف بتصميمه المعاصر وإضاءته.",
+    "fr": "Une remarquable mosquée moderne à Üsküdar, connue pour son design contemporain et son éclairage.",
+    "es": "Una llamativa mezquita moderna en Üsküdar, conocida por su diseño contemporáneo e iluminación.",
+    "zh": "位于于斯屈达尔的引人注目的现代清真寺，以当代设计和灯光闻名。",
+    "it": "Una notevole moschea moderna a Üsküdar, nota per il design contemporaneo e l'illuminazione.",
+    "ja": "現代的なデザインと照明で知られる、ユスキュダルの印象的なモダンモスク。"
+  },
+  "Miniatürk": {
+    "de": "Ein Park mit Miniaturmodellen der berühmtesten historischen Wahrzeichen der Türkei.",
+    "ru": "Парк с миниатюрными моделями самых известных исторических памятников Турции.",
+    "ar": "حديقة تعرض نماذج مصغرة لأشهر المعالم التاريخية في تركيا.",
+    "fr": "Un parc présentant des modèles miniatures des monuments historiques les plus célèbres de Turquie.",
+    "es": "Un parque que exhibe modelos en miniatura de los monumentos históricos más famosos de Turquía.",
+    "zh": "展示土耳其著名历史地标微缩模型的公园。",
+    "it": "Un parco che espone modelli in miniatura dei più famosi monumenti storici della Turchia.",
+    "ja": "トルコの有名な歴史的建造物のミニチュア模型を展示する公園。"
+  },
+  "İstanbul Havacılık Müzesi": {
+    "de": "Ein Museum zur Geschichte der türkischen Luftfahrt mit historischen Flugzeugen.",
+    "ru": "Музей истории турецкой авиации с историческими самолётами.",
+    "ar": "متحف مخصص لتاريخ الطيران التركي، يعرض طائرات تاريخية.",
+    "fr": "Un musée consacré à l'histoire de l'aviation turque, avec des avions historiques exposés.",
+    "es": "Un museo dedicado a la historia de la aviación turca, con aviones históricos en exhibición.",
+    "zh": "致力于展示土耳其航空历史的博物馆，陈列多架历史飞机。",
+    "it": "Un museo dedicato alla storia dell'aviazione turca, con aerei storici in mostra.",
+    "ja": "歴史的な航空機を展示する、トルコ航空史の博物館。"
+  },
+  "Zeyrek Camii": {
+    "de": "Eine ehemalige byzantinische Kirche, das Pantokrator-Kloster, heute Moschee und UNESCO-Stätte.",
+    "ru": "Бывшая византийская церковь, монастырь Пантократора, ныне мечеть и объект ЮНЕСКО.",
+    "ar": "كنيسة بيزنطية سابقة، دير بانتوكراتور، وهي اليوم مسجد وموقع تراث عالمي لليونسكو.",
+    "fr": "Une ancienne église byzantine, le monastère du Pantocrator, aujourd'hui mosquée et site UNESCO.",
+    "es": "Una antigua iglesia bizantina, el monasterio del Pantocrátor, hoy mezquita y sitio UNESCO.",
+    "zh": "昔日的拜占庭教堂——潘托克拉托修道院，如今是清真寺和联合国教科文组织遗产。",
+    "it": "Un'ex chiesa bizantina, il monastero del Pantocratore, oggi moschea e sito UNESCO.",
+    "ja": "旧ビザンツ教会パントクラトール修道院。現在はモスクでユネスコ世界遺産。"
+  },
+  "Cihangir": {
+    "de": "Ein Bohème-Viertel, bekannt für seine Cafés, Kunstgalerien und kreative Gemeinschaft.",
+    "ru": "Богемный район, известный кафе, художественными галереями и творческим сообществом.",
+    "ar": "حي بوهيمي معروف بمقاهيه ومعارضه الفنية ومجتمعه الإبداعي.",
+    "fr": "Un quartier bohème connu pour ses cafés, ses galeries d'art et sa communauté créative.",
+    "es": "Un barrio bohemio conocido por sus cafés, galerías de arte y comunidad creativa.",
+    "zh": "波西米亚风格的街区，以咖啡馆、艺术画廊和创意社群闻名。",
+    "it": "Un quartiere bohémien noto per i caffè, le gallerie d'arte e la comunità creativa.",
+    "ja": "カフェ、アートギャラリー、クリエイティブなコミュニティで知られるボヘミアンな地区。"
+  },
+  "Çukurcuma": {
+    "de": "Ein charmantes Viertel, berühmt für seine Antiquitätenläden und nostalgischen Gassen.",
+    "ru": "Очаровательный район, знаменитый антикварными лавками и ностальгическими улочками.",
+    "ar": "حي ساحر يشتهر بمحلات التحف القديمة وشوارعه العريقة.",
+    "fr": "Un quartier charmant, célèbre pour ses boutiques d'antiquités et ses rues nostalgiques.",
+    "es": "Un barrio encantador, famoso por sus tiendas de antigüedades y calles nostálgicas.",
+    "zh": "迷人的街区，以古董店和怀旧街道闻名。",
+    "it": "Un quartiere affascinante, famoso per i negozi di antiquariato e le strade nostalgiche.",
+    "ja": "アンティークショップとノスタルジックな街並みで知られる魅力的な地区。"
+  },
+  "Kınalıada": {
+    "de": "Die kleinste und Istanbul am nächsten gelegene Prinzeninsel, bekannt für ihre rötlichen Klippen.",
+    "ru": "Самый маленький и ближайший к Стамбулу из Принцевых островов, известный красноватыми скалами.",
+    "ar": "أصغر جزر الأمراء وأقربها إلى إسطنبول، معروفة بمنحدراتها الحمراء.",
+    "fr": "La plus petite et la plus proche d'Istanbul des îles des Princes, connue pour ses falaises rougeâtres.",
+    "es": "La más pequeña y cercana a Estambul de las Islas de los Príncipes, conocida por sus acantilados rojizos.",
+    "zh": "王子群岛中最小、距伊斯坦布尔最近的岛屿，以红色悬崖闻名。",
+    "it": "La più piccola e vicina a Istanbul delle Isole dei Principi, nota per le scogliere rossastre.",
+    "ja": "プリンセス諸島で最小かつイスタンブールに最も近い島。赤みがかった崖で知られる。"
+  },
+    "Heybeliada": {
+    "de": "Die zweitgrößte Prinzeninsel, bekannt für ihre Pinienwälder und autofreien Straßen.",
+    "ru": "Второй по величине Принцев остров, известный сосновыми лесами и улицами без автомобилей.",
+    "ar": "ثاني أكبر جزر الأمراء، معروفة بغابات الصنوبر وشوارعها الخالية من السيارات.",
+    "fr": "La deuxième plus grande île des Princes, connue pour ses forêts de pins et ses rues sans voitures.",
+    "es": "La segunda mayor de las Islas de los Príncipes, conocida por sus pinares y calles sin coches.",
+    "zh": "王子群岛第二大岛，以松树林和无车街道闻名。",
+    "it": "La seconda isola più grande dei Principi, nota per le pinete e le strade senza auto.",
+    "ja": "プリンセス諸島で2番目に大きな島。松林と車のない通りで知られる。"
+  },
+  "Burgazada": {
+    "de": "Eine kleine, friedliche Insel, von Schriftstellern als ruhiger Rückzugsort geschätzt.",
+    "ru": "Маленький тихий остров, любимый писателями как спокойное убежище от города.",
+    "ar": "جزيرة صغيرة هادئة يفضلها الكتّاب كملاذ هادئ بعيداً عن المدينة.",
+    "fr": "Une petite île paisible, appréciée des écrivains comme refuge tranquille loin de la ville.",
+    "es": "Una isla pequeña y tranquila, preferida por escritores como refugio silencioso de la ciudad.",
+    "zh": "宁静的小岛，深受作家喜爱，是远离城市喧嚣的清净之地。",
+    "it": "Una piccola isola tranquilla, amata dagli scrittori come rifugio silenzioso dalla città.",
+    "ja": "作家たちに愛される、都会の喧騒から離れた静かな小島。"
+  },
+  "Emirgan Korusu": {
+    "de": "Ein großer Park, berühmt für seine Tulpengärten und den Panoramablick auf den Bosporus.",
+    "ru": "Большой парк, знаменитый тюльпановыми садами и панорамным видом на Босфор.",
+    "ar": "حديقة كبيرة تشتهر بحدائق التوليب وإطلالاتها البانورامية على البوسفور.",
+    "fr": "Un grand parc célèbre pour ses jardins de tulipes et ses vues panoramiques sur le Bosphore.",
+    "es": "Un gran parque famoso por sus jardines de tulipanes y vistas panorámicas del Bósforo.",
+    "zh": "以郁金香花园和博斯普鲁斯海峡全景闻名的大型公园。",
+    "it": "Un grande parco famoso per i giardini di tulipani e le viste panoramiche sul Bosforo.",
+    "ja": "チューリップ庭園とボスポラス海峡のパノラマで有名な大公園。"
+  },
+  "Maçka Demokrasi Parkı": {
+    "de": "Eine grüne Oase im Herzen der Stadt, beliebt zum Spazieren und Picknicken.",
+    "ru": "Зелёный оазис в сердце города, популярный для прогулок и пикников.",
+    "ar": "واحة خضراء في قلب المدينة، شهيرة للمشي والنزهات.",
+    "fr": "Une oasis verte au cœur de la ville, populaire pour les promenades et les pique-niques.",
+    "es": "Un oasis verde en el corazón de la ciudad, popular para pasear y hacer pícnic.",
+    "zh": "城市中心的绿洲，是散步和野餐的热门去处。",
+    "it": "Un'oasi verde nel cuore della città, popolare per passeggiate e picnic.",
+    "ja": "街の中心にある緑のオアシス。散歩やピクニックに人気。"
+  },
+  "Gülhane Parkı": {
+    "de": "Ein historischer Park direkt neben dem Topkapı-Palast, einst Teil der Palastgärten.",
+    "ru": "Исторический парк рядом с дворцом Топкапы, некогда часть дворцовых садов.",
+    "ar": "حديقة تاريخية بجوار قصر توبكابي مباشرة، كانت جزءاً من حدائق القصر.",
+    "fr": "Un parc historique juste à côté du palais de Topkapı, autrefois partie des jardins du palais.",
+    "es": "Un parque histórico justo al lado del Palacio de Topkapı, antaño parte de los jardines del palacio.",
+    "zh": "紧邻托普卡帕宫的历史公园，曾是宫廷花园的一部分。",
+    "it": "Un parco storico proprio accanto al Palazzo Topkapı, un tempo parte dei giardini del palazzo.",
+    "ja": "トプカプ宮殿に隣接する歴史ある公園。かつては宮殿庭園の一部だった。"
+  },
+  "Kilyos Plajı": {
+    "de": "Ein beliebter Schwarzmeerstrand nördlich der Stadt, bekannt für Wellen und Sand.",
+    "ru": "Популярный черноморский пляж к северу от города, известный волнами и песком.",
+    "ar": "شاطئ شهير على البحر الأسود شمال المدينة، معروف بأمواجه ورماله.",
+    "fr": "Une plage populaire de la mer Noire au nord de la ville, connue pour ses vagues et son sable.",
+    "es": "Una popular playa del Mar Negro al norte de la ciudad, conocida por sus olas y arena.",
+    "zh": "城市以北的黑海热门海滩，以海浪和沙滩闻名。",
+    "it": "Una popolare spiaggia sul Mar Nero a nord della città, nota per le onde e la sabbia.",
+    "ja": "市の北にある黒海の人気ビーチ。波と砂浜で知られる。"
+  },
+  "Caddebostan Sahili": {
+    "de": "Eine lange Uferpromenade auf der asiatischen Seite, beliebt zum Joggen und Radfahren.",
+    "ru": "Длинная набережная на азиатской стороне, популярная для бега и велопрогулок.",
+    "ar": "ممشى طويل على الواجهة البحرية في الجانب الآسيوي، شهير للركض وركوب الدراجات.",
+    "fr": "Une longue promenade en bord de mer sur la rive asiatique, populaire pour le jogging et le vélo.",
+    "es": "Un largo paseo marítimo en el lado asiático, popular para correr y montar en bicicleta.",
+    "zh": "亚洲一侧绵长的海滨步道，是慢跑和骑行的热门地点。",
+    "it": "Un lungo lungomare sulla sponda asiatica, popolare per jogging e ciclismo.",
+    "ja": "アジア側に延びる長い海辺の遊歩道。ジョギングやサイクリングに人気。"
+  },
+  "Vialand": {
+    "de": "Istanbuls großer Themenpark mit Fahrgeschäften, Shows und Unterhaltung für alle Altersgruppen.",
+    "ru": "Большой тематический парк Стамбула с аттракционами, шоу и развлечениями для всех возрастов.",
+    "ar": "مدينة الملاهي الكبيرة في إسطنبول، بألعاب وعروض وترفيه لجميع الأعمار.",
+    "fr": "Le grand parc à thème d'Istanbul, avec des manèges, des spectacles et des divertissements pour tous les âges.",
+    "es": "El gran parque temático de Estambul, con atracciones, espectáculos y entretenimiento para todas las edades.",
+    "zh": "伊斯坦布尔的大型主题公园，拥有适合各年龄段的游乐设施、表演和娱乐项目。",
+    "it": "Il grande parco a tema di Istanbul, con giostre, spettacoli e intrattenimento per tutte le età.",
+    "ja": "乗り物、ショー、あらゆる年齢層向けのエンターテイメントが揃うイスタンブールの大型テーマパーク。"
+  },
+  "İstanbul Akvaryum": {
+    "de": "Das größte Themenaquarium der Türkei mit Haien, Pinguinen und Meeresbewohnern aus aller Welt.",
+    "ru": "Крупнейший тематический аквариум Турции с акулами, пингвинами и морскими обитателями со всего мира.",
+    "ar": "أكبر أكواريوم مواضيعي في تركيا، يضم أسماك القرش والبطاريق وكائنات بحرية من جميع أنحاء العالم.",
+    "fr": "Le plus grand aquarium thématique de Turquie, abritant requins, pingouins et animaux marins du monde entier.",
+    "es": "El mayor acuario temático de Turquía, hogar de tiburones, pingüinos y vida marina de todo el mundo.",
+    "zh": "土耳其最大的主题水族馆，饲养着鲨鱼、企鹅和来自世界各地的海洋生物。",
+    "it": "Il più grande acquario tematico della Turchia, con squali, pinguini e vita marina da tutto il mondo.",
+    "ja": "サメ、ペンギン、世界中の海洋生物が集うトルコ最大のテーマ水族館。"
+  },
+  "Kariye Müzesi": {
+    "de": "Eine ehemalige byzantinische Kirche, berühmt für ihre atemberaubenden Mosaiken und Fresken.",
+    "ru": "Бывшая византийская церковь, знаменитая потрясающими мозаиками и фресками.",
+    "ar": "كنيسة بيزنطية سابقة تشتهر بفسيفسائها وجدارياتها المذهلة.",
+    "fr": "Une ancienne église byzantine célèbre pour ses superbes mosaïques et fresques.",
+    "es": "Una antigua iglesia bizantina famosa por sus impresionantes mosaicos y frescos.",
+    "zh": "昔日的拜占庭教堂，以精美绝伦的马赛克和壁画闻名。",
+    "it": "Un'ex chiesa bizantina famosa per i suoi splendidi mosaici e affreschi.",
+    "ja": "見事なモザイクとフレスコ画で名高い旧ビザンツ教会。"
+  },
+    "Belgrad Ormanı": {
+    "de": "Ein weitläufiger Wald nördlich der Stadt, beliebt zum Wandern und Picknicken.",
+    "ru": "Обширный лес к северу от города, популярный для походов и пикников.",
+    "ar": "غابة شاسعة شمال المدينة، شهيرة للمشي والنزهات.",
+    "fr": "Une vaste forêt au nord de la ville, populaire pour la randonnée et les pique-niques.",
+    "es": "Un extenso bosque al norte de la ciudad, popular para el senderismo y los pícnics.",
+    "zh": "城市以北的广袤森林，是徒步和野餐的热门去处。",
+    "it": "Una vasta foresta a nord della città, popolare per escursioni e picnic.",
+    "ja": "市の北に広がる広大な森。ハイキングやピクニックに人気。"
+  },
+  "Atatürk Arboretumu": {
+    "de": "Ein botanischer Park mit einer reichen Vielfalt an Bäumen und Pflanzen nahe dem Belgrader Wald.",
+    "ru": "Ботанический парк с богатым разнообразием деревьев и растений близ Белградского леса.",
+    "ar": "حديقة نباتية غنية بتنوع الأشجار والنباتات قرب غابة بلغراد.",
+    "fr": "Un parc botanique avec une riche variété d'arbres et de plantes près de la forêt de Belgrade.",
+    "es": "Un parque botánico con una rica variedad de árboles y plantas cerca del bosque de Belgrado.",
+    "zh": "毗邻贝尔格莱德森林的植物园，树木和植物种类丰富。",
+    "it": "Un parco botanico con una ricca varietà di alberi e piante vicino alla foresta di Belgrado.",
+    "ja": "ベオグラードの森の近くにある、多様な樹木と植物が茂る植物園。"
+  },
+  "Panorama 1453 Tarih Müzesi": {
+    "de": "Ein Panoramamuseum, das die Eroberung Konstantinopels im Jahr 1453 darstellt.",
+    "ru": "Панорамный музей, изображающий завоевание Константинополя в 1453 году.",
+    "ar": "متحف بانورامي يصور فتح القسطنطينية عام 1453.",
+    "fr": "Un musée panoramique représentant la conquête de Constantinople en 1453.",
+    "es": "Un museo panorámico que representa la conquista de Constantinopla en 1453.",
+    "zh": "以全景方式再现1453年君士坦丁堡征服的博物馆。",
+    "it": "Un museo panoramico che raffigura la conquista di Costantinopoli nel 1453.",
+    "ja": "1453年のコンスタンティノープル征服を描くパノラマ博物館。"
+  },
+  "Galata Mevlevihanesi Müzesi": {
+    "de": "Ein historisches Mevlevi-Kloster, in dem einst die Zeremonien der tanzenden Derwische stattfanden.",
+    "ru": "Историческая обитель Мевлеви, где когда-то проводились церемонии кружащихся дервишей.",
+    "ar": "تكية مولوية تاريخية كانت تُقام فيها مراسم الدراويش الدوّارة.",
+    "fr": "Une loge mevlevi historique où se déroulaient autrefois les cérémonies des derviches tourneurs.",
+    "es": "Una histórica logia mevleví donde antaño se celebraban las ceremonias de los derviches giróvagos.",
+    "zh": "历史悠久的梅夫拉维道堂，昔日举行旋转托钵僧仪式之地。",
+    "it": "Una storica loggia Mevlevi dove un tempo si svolgevano le cerimonie dei dervisci rotanti.",
+    "ja": "かつて旋回舞踏の儀式が行われた歴史あるメヴレヴィー教団の修道場。"
+  },
+  "Yıldız Parkı": {
+    "de": "Ein großer grüner Park rund um den Yıldız-Palast mit Teichen und Pavillons.",
+    "ru": "Большой зелёный парк вокруг дворца Йылдыз с прудами и павильонами.",
+    "ar": "حديقة خضراء كبيرة تحيط بقصر يلدز، مع برك وأجنحة.",
+    "fr": "Un grand parc verdoyant entourant le palais de Yıldız, avec des étangs et des pavillons.",
+    "es": "Un gran parque verde que rodea el Palacio de Yıldız, con estanques y pabellones.",
+    "zh": "环绕耶尔德兹宫的大型绿色公园，园内有池塘和亭台。",
+    "it": "Un grande parco verde che circonda il Palazzo Yıldız, con laghetti e padiglioni.",
+    "ja": "ユルドゥズ宮殿を囲む緑豊かな大公園。池やパビリオンが点在する。"
+  },
+  "Masumiyet Müzesi": {
+    "de": "Ein einzigartiges Museum, inspiriert von Orhan Pamuks Roman, das Alltagsgegenstände ausstellt.",
+    "ru": "Уникальный музей, вдохновлённый романом Орхана Памука, где выставлены предметы повседневной жизни.",
+    "ar": "متحف فريد مستوحى من رواية أورهان باموق، يعرض أشياء من الحياة اليومية.",
+    "fr": "Un musée unique inspiré du roman d'Orhan Pamuk, exposant des objets du quotidien.",
+    "es": "Un museo único inspirado en la novela de Orhan Pamuk, que exhibe objetos cotidianos.",
+    "zh": "灵感源自奥尔罕·帕慕克小说的独特博物馆，陈列日常生活物品。",
+    "it": "Un museo unico ispirato al romanzo di Orhan Pamuk, che espone oggetti di vita quotidiana.",
+    "ja": "オルハン・パムクの小説から生まれたユニークな博物館。日常の品々を展示。"
+  },
+  "İstanbul Oyuncak Müzesi": {
+    "de": "Ein Museum mit historischem Spielzeug aus aller Welt.",
+    "ru": "Музей исторических игрушек со всего мира.",
+    "ar": "متحف يعرض ألعاباً تاريخية من جميع أنحاء العالم.",
+    "fr": "Un musée présentant des jouets historiques du monde entier.",
+    "es": "Un museo que exhibe juguetes históricos de todo el mundo.",
+    "zh": "展示来自世界各地历史玩具的博物馆。",
+    "it": "Un museo che espone giocattoli storici da tutto il mondo.",
+    "ja": "世界中の歴史的な玩具を展示する博物館。"
+  },
+  "Haydarpaşa Tren İstasyonu": {
+    "de": "Ein historischer und majestätischer Bahnhof auf der asiatischen Seite Istanbuls.",
+    "ru": "Исторический и величественный железнодорожный вокзал на азиатской стороне Стамбула.",
+    "ar": "محطة قطار تاريخية مهيبة على الجانب الآسيوي من إسطنبول.",
+    "fr": "Une gare historique et majestueuse sur la rive asiatique d'Istanbul.",
+    "es": "Una estación de tren histórica y majestuosa en el lado asiático de Estambul.",
+    "zh": "伊斯坦布尔亚洲一侧历史悠久而宏伟的火车站。",
+    "it": "Una stazione ferroviaria storica e maestosa sul lato asiatico di Istanbul.",
+    "ja": "イスタンブールのアジア側に建つ、歴史的で堂々たる鉄道駅。"
+  },
+  "Mihrimah Sultan Camii": {
+    "de": "Eine elegante Moschee von Mimar Sinan in Edirnekapı.",
+    "ru": "Изящная мечеть Мимара Синана в Эдирнекапы.",
+    "ar": "مسجد أنيق من تصميم المعماري سنان في أدرنة قابي.",
+    "fr": "Une élégante mosquée de Mimar Sinan située à Edirnekapı.",
+    "es": "Una elegante mezquita de Mimar Sinan situada en Edirnekapı.",
+    "zh": "位于埃迪尔内卡普、由锡南设计的优雅清真寺。",
+    "it": "Un'elegante moschea di Mimar Sinan situata a Edirnekapı.",
+    "ja": "エディルネカプにある、スィナン設計の優美なモスク。"
+  },
+  "Otağtepe Parkı": {
+    "de": "Ein friedlicher Hügelpark mit Panoramablick auf den Bosporus, auch bekannt als Fatih-Hain.",
+    "ru": "Спокойный парк на холме с панорамным видом на Босфор, известный также как роща Фатиха.",
+    "ar": "حديقة هادئة على تلة بإطلالات بانورامية على البوسفور، تُعرف أيضاً باسم غابة الفاتح.",
+    "fr": "Un parc paisible au sommet d'une colline avec vue panoramique sur le Bosphore, aussi appelé Fatih Korusu.",
+    "es": "Un tranquilo parque en la colina con vistas panorámicas del Bósforo, también conocido como Fatih Korusu.",
+    "zh": "山顶上的宁静公园，可饱览博斯普鲁斯海峡全景，又称法提赫树林。",
+    "it": "Un tranquillo parco collinare con vista panoramica sul Bosforo, noto anche come Fatih Korusu.",
+    "ja": "ボスポラス海峡のパノラマが広がる丘の上の静かな公園。ファーティフの森としても知られる。"
+  },
+    "Bakırköy Botanik Park": {
+    "de": "Ein großer grüner botanischer Park auf der europäischen Seite der Stadt.",
+    "ru": "Большой зелёный ботанический парк на европейской стороне города.",
+    "ar": "حديقة نباتية خضراء واسعة على الجانب الأوروبي من المدينة.",
+    "fr": "Un grand parc botanique verdoyant sur la rive européenne de la ville.",
+    "es": "Un gran parque botánico verde en el lado europeo de la ciudad.",
+    "zh": "城市欧洲一侧宽阔葱郁的植物园。",
+    "it": "Un grande parco botanico verde sul lato europeo della città.",
+    "ja": "市のヨーロッパ側にある広く緑豊かな植物公園。"
+  },
+  "Hz. Yuşa Tepesi": {
+    "de": "Einer der höchsten Punkte über dem Bosporus, Heimat eines verehrten Schreins.",
+    "ru": "Одна из высочайших точек над Босфором, где находится почитаемая святыня.",
+    "ar": "من أعلى النقاط المطلة على البوسفور، يضم ضريحاً مقدساً.",
+    "fr": "L'un des points culminants surplombant le Bosphore, abritant un sanctuaire vénéré.",
+    "es": "Uno de los puntos más altos sobre el Bósforo, hogar de un santuario venerado.",
+    "zh": "俯瞰博斯普鲁斯海峡的最高点之一，坐落着一座备受尊崇的圣陵。",
+    "it": "Uno dei punti più alti sul Bosforo, sede di un venerato santuario.",
+    "ja": "ボスポラス海峡を見下ろす最高地点の一つ。崇敬される聖廟がある。"
+  },
+  "Küçük Ayasofya Camii": {
+    "de": "Eine charmante ehemalige byzantinische Kirche, heute Moschee, nahe dem Marmarameer.",
+    "ru": "Очаровательная бывшая византийская церковь, ныне мечеть, близ Мраморного моря.",
+    "ar": "كنيسة بيزنطية سابقة ساحرة، وهي اليوم مسجد قرب بحر مرمرة.",
+    "fr": "Une charmante ancienne église byzantine, aujourd'hui mosquée, près de la mer de Marmara.",
+    "es": "Una encantadora antigua iglesia bizantina, hoy mezquita, cerca del mar de Mármara.",
+    "zh": "迷人的昔日拜占庭教堂，如今是清真寺，毗邻马尔马拉海。",
+    "it": "Un'affascinante ex chiesa bizantina, oggi moschea, vicino al Mar di Marmara.",
+    "ja": "マルマラ海近くにある魅力的な旧ビザンツ教会。現在はモスク。"
+  },
+  "Sent Antuan Kilisesi": {
+    "de": "Die größte katholische Kirche Istanbuls, gelegen an der İstiklal-Straße.",
+    "ru": "Крупнейшая католическая церковь Стамбула, расположенная на улице Истикляль.",
+    "ar": "أكبر كنيسة كاثوليكية في إسطنبول، تقع في شارع الاستقلال.",
+    "fr": "La plus grande église catholique d'Istanbul, située sur l'avenue İstiklal.",
+    "es": "La iglesia católica más grande de Estambul, situada en la avenida İstiklal.",
+    "zh": "伊斯坦布尔最大的天主教堂，位于独立大街上。",
+    "it": "La più grande chiesa cattolica di Istanbul, situata su viale İstiklal.",
+    "ja": "イスティクラル通りに建つ、イスタンブール最大のカトリック教会。"
+  },
+  "Aya İrini Kilisesi": {
+    "de": "Eine byzantinische Kirche im Hof des Topkapı-Palastes.",
+    "ru": "Церковь византийской эпохи, расположенная во дворе дворца Топкапы.",
+    "ar": "كنيسة من العصر البيزنطي تقع داخل فناء قصر توبكابي.",
+    "fr": "Une église de l'époque byzantine située dans la cour du palais de Topkapı.",
+    "es": "Una iglesia de la época bizantina situada en el patio del Palacio de Topkapı.",
+    "zh": "位于托普卡帕宫庭院内的拜占庭时代教堂。",
+    "it": "Una chiesa di epoca bizantina situata nel cortile del Palazzo Topkapı.",
+    "ja": "トプカプ宮殿の中庭に建つビザンツ時代の教会。"
+  },
+  "Hıdiv Kasrı": {
+    "de": "Ein eleganter osmanischer Pavillon mit weitem Blick über den Bosporus.",
+    "ru": "Изящный османский павильон с широким видом на Босфор.",
+    "ar": "جناح عثماني أنيق بإطلالات واسعة على البوسفور.",
+    "fr": "Un élégant pavillon ottoman avec une vue imprenable sur le Bosphore.",
+    "es": "Un elegante pabellón otomano con amplias vistas del Bósforo.",
+    "zh": "俯瞰博斯普鲁斯海峡壮阔景色的典雅奥斯曼行宫。",
+    "it": "Un elegante padiglione ottomano con ampie viste sul Bosforo.",
+    "ja": "ボスポラス海峡を見渡す優雅なオスマン様式の離宮。"
+  },
+  "Hürrem Sultan Hamamı": {
+    "de": "Ein historisches Hamam, entworfen von Mimar Sinan in Sultanahmet.",
+    "ru": "Историческая баня, спроектированная Мимаром Синаном в Султанахмете.",
+    "ar": "حمّام تاريخي من تصميم المعماري سنان في السلطان أحمد.",
+    "fr": "Un hammam historique conçu par Mimar Sinan à Sultanahmet.",
+    "es": "Un hamam histórico diseñado por Mimar Sinan en Sultanahmet.",
+    "zh": "由锡南设计、位于苏丹艾哈迈德的历史浴场。",
+    "it": "Un hamam storico progettato da Mimar Sinan a Sultanahmet.",
+    "ja": "スルタンアフメトにある、スィナン設計の歴史的ハマム。"
+  },
+  "Cağaloğlu Hamamı": {
+    "de": "Ein historisches Hamam mit über 300 Jahren Geschichte in der Altstadt.",
+    "ru": "Историческая баня с более чем 300-летней историей в старом городе.",
+    "ar": "حمّام تاريخي يمتد تاريخه لأكثر من 300 عام في المدينة القديمة.",
+    "fr": "Un hammam historique de plus de 300 ans dans la vieille ville.",
+    "es": "Un hamam histórico con más de 300 años de historia en el casco antiguo.",
+    "zh": "老城区内拥有300多年历史的传统浴场。",
+    "it": "Un hamam storico con oltre 300 anni di storia nella città vecchia.",
+    "ja": "旧市街にある300年以上の歴史を誇るハマム。"
+  },
+  "Çemberlitaş Hamamı": {
+    "de": "Ein historisches Hamam, entworfen von Mimar Sinan und noch heute in Betrieb.",
+    "ru": "Историческая баня, спроектированная Мимаром Синаном и действующая по сей день.",
+    "ar": "حمّام تاريخي من تصميم المعماري سنان، لا يزال يعمل حتى اليوم.",
+    "fr": "Un hammam historique conçu par Mimar Sinan, toujours en activité aujourd'hui.",
+    "es": "Un hamam histórico diseñado por Mimar Sinan, todavía en uso hoy en día.",
+    "zh": "由锡南设计的历史浴场，至今仍在营业。",
+    "it": "Un hamam storico progettato da Mimar Sinan, ancora in funzione oggi.",
+    "ja": "スィナン設計の歴史的ハマム。今も現役で営業中。"
+  },
+  "Madame Tussauds İstanbul": {
+    "de": "Ein Wachsfigurenmuseum mit lebensechten Figuren von Prominenten und historischen Persönlichkeiten.",
+    "ru": "Музей восковых фигур с реалистичными фигурами знаменитостей и исторических личностей.",
+    "ar": "متحف شمعي يضم تماثيل واقعية لمشاهير وشخصيات تاريخية.",
+    "fr": "Un musée de cire présentant des figures réalistes de célébrités et de personnages historiques.",
+    "es": "Un museo de cera con figuras realistas de celebridades y personajes históricos.",
+    "zh": "蜡像馆，展示名人与历史人物栩栩如生的蜡像。",
+    "it": "Un museo delle cere con figure realistiche di celebrità e personaggi storici.",
+    "ja": "有名人や歴史上の人物のリアルな蝋人形を展示する博物館。"
+  },
+    "Mihrabat Korusu": {
+    "de": "Ein ruhiger Hain in Kandilli mit friedlichem Bosporusblick.",
+    "ru": "Тихая роща в Кандилли со спокойным видом на Босфор.",
+    "ar": "بستان هادئ في كانديللي بإطلالات وادعة على البوسفور.",
+    "fr": "Un bosquet tranquille à Kandilli offrant des vues paisibles sur le Bosphore.",
+    "es": "Una arboleda tranquila en Kandilli con serenas vistas del Bósforo.",
+    "zh": "坎迪利的宁静树林，可静赏博斯普鲁斯海峡风光。",
+    "it": "Un boschetto tranquillo a Kandilli con viste serene sul Bosforo.",
+    "ja": "カンディッリにある静かな林。穏やかなボスポラスの眺めが楽しめる。"
+  },
+  "Nezahat Gökyiğit Botanik Bahçesi": {
+    "de": "Einer der größten botanischen Gärten der Türkei mit einheimischen Pflanzenarten.",
+    "ru": "Один из крупнейших ботанических садов Турции с местными видами растений.",
+    "ar": "من أكبر الحدائق النباتية في تركيا، تضم أنواعاً نباتية محلية.",
+    "fr": "L'un des plus grands jardins botaniques de Turquie, présentant des espèces végétales indigènes.",
+    "es": "Uno de los jardines botánicos más grandes de Turquía, con especies de plantas autóctonas.",
+    "zh": "土耳其最大的植物园之一，种植本土植物品种。",
+    "it": "Uno dei più grandi giardini botanici della Turchia, con specie vegetali autoctone.",
+    "ja": "トルコ最大級の植物園。在来種の植物を集めている。"
+  },
+  "Sea Life Akvaryum": {
+    "de": "Ein Meerestieraquarium im Einkaufszentrum Forum Istanbul.",
+    "ru": "Аквариум с морскими обитателями в торговом центре Форум Стамбул.",
+    "ar": "أكواريوم للكائنات البحرية داخل مركز تسوق فورم إسطنبول.",
+    "fr": "Un aquarium de vie marine situé dans le centre commercial Forum Istanbul.",
+    "es": "Un acuario de vida marina ubicado en el centro comercial Forum Estambul.",
+    "zh": "位于伊斯坦布尔论坛购物中心内的海洋生物水族馆。",
+    "it": "Un acquario di vita marina situato nel centro commerciale Forum Istanbul.",
+    "ja": "フォーラム・イスタンブール・ショッピングセンター内にある海洋生物水族館。"
+  },
+  "Fethiye Camisi ve Müzesi": {
+    "de": "Ein historisches Gebäude, umgewandelt aus der ehemaligen Pammakaristos-Kirche, bekannt für seine Mosaiken.",
+    "ru": "Историческое здание, перестроенное из бывшей церкви Паммакаристос, известное мозаиками.",
+    "ar": "مبنى تاريخي حُوّل من كنيسة بماكاريستوس السابقة، يشتهر بفسيفسائه.",
+    "fr": "Un bâtiment historique converti de l'ancienne église Pammakaristos, connu pour ses mosaïques.",
+    "es": "Un edificio histórico convertido de la antigua iglesia Pammakaristos, conocido por sus mosaicos.",
+    "zh": "由昔日帕玛卡里斯托斯教堂改建的历史建筑，以马赛克闻名。",
+    "it": "Un edificio storico convertito dall'ex chiesa di Pammakaristos, noto per i suoi mosaici.",
+    "ja": "旧パンマカリストス教会から転用された歴史的建造物。モザイクで知られる。"
+  },
+  "Aziz Mahmut Hüdayi Türbesi": {
+    "de": "Ein bedeutender spiritueller Schrein und Moscheekomplex in Üsküdar.",
+    "ru": "Значимая духовная святыня и мечетный комплекс в Ускюдаре.",
+    "ar": "ضريح روحي مهم ومجمع مسجد في أسكودار.",
+    "fr": "Un important sanctuaire spirituel et complexe de mosquée à Üsküdar.",
+    "es": "Un importante santuario espiritual y complejo de mezquita en Üsküdar.",
+    "zh": "于斯屈达尔重要的精神圣陵与清真寺建筑群。",
+    "it": "Un importante santuario spirituale e complesso di moschea a Üsküdar.",
+    "ja": "ユスキュダルにある重要な聖廟とモスクの複合施設。"
+  },
+  "Hırka-i Şerif Camii": {
+    "de": "Eine einzigartige Moschee, erbaut zur Aufbewahrung einer heiligen Reliquie des Propheten Mohammed.",
+    "ru": "Уникальная мечеть, построенная для хранения священной реликвии пророка Мухаммеда.",
+    "ar": "مسجد فريد بُني لحفظ أثر مقدس للنبي محمد صلى الله عليه وسلم.",
+    "fr": "Une mosquée unique construite pour abriter une relique sacrée du prophète Mahomet.",
+    "es": "Una mezquita única construida para albergar una reliquia sagrada del profeta Mahoma.",
+    "zh": "为保存先知穆罕默德圣物而建的独特清真寺。",
+    "it": "Una moschea unica costruita per custodire una sacra reliquia del profeta Maometto.",
+    "ja": "預言者ムハンマドの聖遺物を納めるために建てられた特別なモスク。"
+  },
+  "Barış Manço Evi": {
+    "de": "Das ehemalige Zuhause des beliebten Musikers Barış Manço, heute ein Museum.",
+    "ru": "Бывший дом любимого музыканта Барыша Манчо, ныне музей.",
+    "ar": "المنزل السابق للموسيقي المحبوب باريش مانتشو، وهو اليوم متحف.",
+    "fr": "L'ancienne demeure du musicien bien-aimé Barış Manço, aujourd'hui un musée.",
+    "es": "La antigua casa del querido músico Barış Manço, hoy convertida en museo.",
+    "zh": "深受爱戴的音乐家巴勒什·曼乔的故居，现为博物馆。",
+    "it": "L'ex casa dell'amato musicista Barış Manço, oggi un museo.",
+    "ja": "国民的音楽家バルシュ・マンチョの旧邸宅。現在は博物館。"
+  },
+  "Çemberlitaş Sütunu": {
+    "de": "Eine antike byzantinische Säule, errichtet von Kaiser Konstantin.",
+    "ru": "Древняя византийская колонна, воздвигнутая императором Константином.",
+    "ar": "عمود بيزنطي قديم أقامه الإمبراطور قسطنطين.",
+    "fr": "Une ancienne colonne byzantine érigée par l'empereur Constantin.",
+    "es": "Una antigua columna bizantina erigida por el emperador Constantino.",
+    "zh": "由君士坦丁大帝竖立的古老拜占庭石柱。",
+    "it": "Un'antica colonna bizantina eretta dall'imperatore Costantino.",
+    "ja": "コンスタンティヌス帝によって建てられた古代ビザンツの記念柱。"
+  },
+  "Bozdoğan Su Kemeri": {
+    "de": "Ein beeindruckendes römisches Aquädukt, das noch immer im Herzen der Altstadt steht.",
+    "ru": "Впечатляющий римский акведук, до сих пор стоящий в сердце старого города.",
+    "ar": "قناة مياه رومانية مذهلة لا تزال قائمة في قلب المدينة القديمة.",
+    "fr": "Un impressionnant aqueduc romain toujours debout au cœur de la vieille ville.",
+    "es": "Un impresionante acueducto romano que sigue en pie en el corazón del casco antiguo.",
+    "zh": "屹立于老城中心的壮观罗马水道桥。",
+    "it": "Un imponente acquedotto romano ancora in piedi nel cuore della città vecchia.",
+    "ja": "旧市街の中心に今も立つ壮大なローマ時代の水道橋。"
+  },
+  "Arasta Çarşısı": {
+    "de": "Ein charmanter historischer Basar direkt neben der Blauen Moschee.",
+    "ru": "Очаровательный исторический базар прямо рядом с Голубой мечетью.",
+    "ar": "سوق تاريخي ساحر بجوار المسجد الأزرق مباشرة.",
+    "fr": "Un charmant bazar historique juste à côté de la Mosquée Bleue.",
+    "es": "Un encantador bazar histórico justo al lado de la Mezquita Azul.",
+    "zh": "紧邻蓝色清真寺的迷人历史集市。",
+    "it": "Un affascinante bazar storico proprio accanto alla Moschea Blu.",
+    "ja": "ブルーモスクのすぐ隣にある趣ある歴史的バザール。"
+  },
+    "Ahrida Sinagogu": {
+    "de": "Eine der ältesten Synagogen Istanbuls im historischen Viertel Balat.",
+    "ru": "Одна из старейших синагог Стамбула в историческом районе Балат.",
+    "ar": "من أقدم المعابد اليهودية في إسطنبول، يقع في حي بالات التاريخي.",
+    "fr": "L'une des plus anciennes synagogues d'Istanbul, située dans le quartier historique de Balat.",
+    "es": "Una de las sinagogas más antiguas de Estambul, situada en el histórico barrio de Balat.",
+    "zh": "位于历史街区巴拉特的伊斯坦布尔最古老犹太会堂之一。",
+    "it": "Una delle sinagoghe più antiche di Istanbul, situata nello storico quartiere di Balat.",
+    "ja": "歴史地区バラトにある、イスタンブール最古級のシナゴーグ。"
+  },
+  "Aydos Ormanı": {
+    "de": "Ein großes Wald- und Wandergebiet auf der asiatischen Seite Istanbuls.",
+    "ru": "Большой лес и зона для походов на азиатской стороне Стамбула.",
+    "ar": "غابة كبيرة ومنطقة للمشي على الجانب الآسيوي من إسطنبول.",
+    "fr": "Une grande forêt et zone de randonnée sur la rive asiatique d'Istanbul.",
+    "es": "Un gran bosque y zona de senderismo en el lado asiático de Estambul.",
+    "zh": "伊斯坦布尔亚洲一侧的大型森林和徒步区域。",
+    "it": "Una grande foresta e area escursionistica sul lato asiatico di Istanbul.",
+    "ja": "イスタンブールのアジア側に広がる大きな森とハイキングエリア。"
+  },
+  "Kanlıca": {
+    "de": "Ein friedliches Bosporusviertel, berühmt für seinen traditionellen Joghurt.",
+    "ru": "Спокойный район на Босфоре, знаменитый традиционным йогуртом.",
+    "ar": "حي هادئ على البوسفور يشتهر بلبنه التقليدي.",
+    "fr": "Un paisible quartier du Bosphore, célèbre pour son yaourt traditionnel.",
+    "es": "Un tranquilo barrio del Bósforo, famoso por su yogur tradicional.",
+    "zh": "博斯普鲁斯海峡沿岸的宁静街区，以传统酸奶闻名。",
+    "it": "Un tranquillo quartiere sul Bosforo, famoso per il suo yogurt tradizionale.",
+    "ja": "伝統的なヨーグルトで有名な、ボスポラス海峡沿いの静かな地区。"
+  },
+  "Sadberk Hanım Müzesi": {
+    "de": "Ein Museum mit einer reichen Sammlung osmanischer Artefakte und Kunst.",
+    "ru": "Музей с богатой коллекцией османских артефактов и искусства.",
+    "ar": "متحف يعرض مجموعة غنية من التحف والفنون العثمانية.",
+    "fr": "Un musée présentant une riche collection d'objets et d'art de l'époque ottomane.",
+    "es": "Un museo que exhibe una rica colección de artefactos y arte de la época otomana.",
+    "zh": "收藏丰富奥斯曼时期文物与艺术品的博物馆。",
+    "it": "Un museo che espone una ricca collezione di manufatti e arte di epoca ottomana.",
+    "ja": "オスマン時代の工芸品と美術品の豊かなコレクションを展示する博物館。"
+  },
+  "Florya Atatürk Deniz Köşkü": {
+    "de": "Ein über dem Wasser erbauter Seepavillon, einst Atatürks Sommerresidenz.",
+    "ru": "Павильон, построенный над водой, некогда летняя резиденция Ататюрка.",
+    "ar": "جناح بحري بُني فوق الماء، استخدمه أتاتورك مقراً صيفياً.",
+    "fr": "Un pavillon balnéaire construit sur l'eau, autrefois résidence d'été d'Atatürk.",
+    "es": "Un pabellón marino construido sobre el agua, antaño residencia de verano de Atatürk.",
+    "zh": "建于海面之上的海滨行馆，曾是阿塔图尔克的避暑居所。",
+    "it": "Un padiglione costruito sull'acqua, un tempo residenza estiva di Atatürk.",
+    "ja": "海上に建てられたパビリオン。かつてアタテュルクの夏の別荘だった。"
+  },
+  "Aynalıkavak Kasrı": {
+    "de": "Ein historischer osmanischer Pavillon am Ufer des Goldenen Horns.",
+    "ru": "Исторический османский павильон на берегу Золотого Рога.",
+    "ar": "جناح عثماني تاريخي على ضفاف القرن الذهبي.",
+    "fr": "Un pavillon ottoman historique situé sur les rives de la Corne d'Or.",
+    "es": "Un pabellón otomano histórico situado a orillas del Cuerno de Oro.",
+    "zh": "位于金角湾畔的历史悠久的奥斯曼行宫。",
+    "it": "Uno storico padiglione ottomano situato sulle rive del Corno d'Oro.",
+    "ja": "金角湾のほとりに建つ歴史あるオスマン離宮。"
+  },
+  "Ural Ataman Klasik Otomobil Müzesi": {
+    "de": "Ein Privatmuseum mit einer bemerkenswerten Sammlung klassischer und seltener Automobile.",
+    "ru": "Частный музей с замечательной коллекцией классических и редких автомобилей.",
+    "ar": "متحف خاص يعرض مجموعة رائعة من السيارات الكلاسيكية والنادرة.",
+    "fr": "Un musée privé présentant une remarquable collection d'automobiles classiques et rares.",
+    "es": "Un museo privado que exhibe una notable colección de automóviles clásicos y raros.",
+    "zh": "私人博物馆，收藏一系列珍贵的经典与稀有汽车。",
+    "it": "Un museo privato con una notevole collezione di automobili classiche e rare.",
+    "ja": "クラシックカーと希少車の見事なコレクションを誇る私設博物館。"
+  },
+  "Pelit Çikolata Müzesi": {
+    "de": "Ein unterhaltsames Museum über die Geschichte und Kunst der Schokoladenherstellung.",
+    "ru": "Увлекательный музей об истории и искусстве изготовления шоколада.",
+    "ar": "متحف ممتع يستكشف تاريخ وفن صناعة الشوكولاتة.",
+    "fr": "Un musée amusant explorant l'histoire et l'art de la fabrication du chocolat.",
+    "es": "Un museo divertido que explora la historia y el arte de la fabricación del chocolate.",
+    "zh": "探索巧克力历史与制作工艺的趣味博物馆。",
+    "it": "Un museo divertente che esplora la storia e l'arte della produzione del cioccolato.",
+    "ja": "チョコレート作りの歴史と技を楽しく学べる博物館。"
+  },
+  "Yoros Kalesi": {
+    "de": "Eine historische Festung an der Stelle, wo der Bosporus auf das Schwarze Meer trifft.",
+    "ru": "Историческая крепость в месте, где Босфор встречается с Чёрным морем.",
+    "ar": "قلعة تاريخية عند نقطة التقاء البوسفور بالبحر الأسود.",
+    "fr": "Une forteresse historique à l'endroit où le Bosphore rejoint la mer Noire.",
+    "es": "Una fortaleza histórica en el punto donde el Bósforo se encuentra con el Mar Negro.",
+    "zh": "位于博斯普鲁斯海峡与黑海交汇处的历史要塞。",
+    "it": "Una fortezza storica nel punto in cui il Bosforo incontra il Mar Nero.",
+    "ja": "ボスポラス海峡が黒海と出会う地点に建つ歴史的な城塞。"
+  },
+  "Alman Çeşmesi": {
+    "de": "Ein historischer Brunnen, ein Geschenk Deutschlands, auf dem Sultanahmet-Platz.",
+    "ru": "Исторический фонтан, подаренный Германией, на площади Султанахмет.",
+    "ar": "نافورة تاريخية أهدتها ألمانيا، تقع في ميدان السلطان أحمد.",
+    "fr": "Une fontaine historique offerte par l'Allemagne, située sur la place Sultanahmet.",
+    "es": "Una fuente histórica regalada por Alemania, situada en la plaza de Sultanahmet.",
+    "zh": "德国赠送的历史喷泉，坐落于苏丹艾哈迈德广场。",
+    "it": "Una fontana storica donata dalla Germania, situata in piazza Sultanahmet.",
+    "ja": "ドイツから贈られた歴史的な泉亭。スルタンアフメト広場にある。"
+  },
+  "Harbiye Askeri Müzesi": {
+    "de": "Ein Museum zur osmanischen und türkischen Militärgeschichte.",
+    "ru": "Музей, посвящённый османской и турецкой военной истории.",
+    "ar": "متحف مخصص للتاريخ العسكري العثماني والتركي.",
+    "fr": "Un musée consacré à l'histoire militaire ottomane et turque.",
+    "es": "Un museo dedicado a la historia militar otomana y turca.",
+    "zh": "致力于展示奥斯曼与土耳其军事历史的博物馆。",
+    "it": "Un museo dedicato alla storia militare ottomana e turca.",
+    "ja": "オスマン帝国とトルコの軍事史をテーマとする博物館。"
+  },
+  "Çiçek Pasajı": {
+    "de": "Eine historische und lebendige Passage an der İstiklal-Straße voller Restaurants und Tavernen.",
+    "ru": "Историческая оживлённая галерея на улице Истикляль, полная ресторанов и таверн.",
+    "ar": "ممر تاريخي نابض بالحياة في شارع الاستقلال، مليء بالمطاعم والحانات.",
+    "fr": "Un passage historique et animé sur l'avenue İstiklal, rempli de restaurants et de tavernes.",
+    "es": "Un pasaje histórico y animado en la avenida İstiklal, lleno de restaurantes y tabernas.",
+    "zh": "独立大街上历史悠久、热闹非凡的拱廊，餐馆酒馆林立。",
+    "it": "Un passaggio storico e vivace su viale İstiklal, pieno di ristoranti e taverne.",
+    "ja": "レストランや居酒屋が並ぶ、イスティクラル通りの歴史ある活気に満ちたパサージュ。"
+  },
+  "Ortaköy Sahili": {
+    "de": "Eine beliebte Uferpromenade mit Blick auf die Bosporusbrücke.",
+    "ru": "Популярная набережная с видом на Босфорский мост.",
+    "ar": "ممشى شهير على الواجهة البحرية بإطلالات على جسر البوسفور.",
+    "fr": "Une promenade populaire au bord de l'eau avec vue sur le pont du Bosphore.",
+    "es": "Un popular paseo marítimo con vistas al puente del Bósforo.",
+    "zh": "可眺望博斯普鲁斯大桥的热门海滨步道。",
+    "it": "Una popolare passeggiata sul lungomare con vista sul ponte sul Bosforo.",
+    "ja": "ボスポラス大橋を望む人気のウォーターフロント遊歩道。"
+  },
+  "Bağdat Caddesi": {
+    "de": "Eine berühmte Einkaufs- und Flanierstraße auf der asiatischen Seite Istanbuls.",
+    "ru": "Знаменитая улица для шопинга и прогулок на азиатской стороне Стамбула.",
+    "ar": "شارع شهير للتسوق والتنزه على الجانب الآسيوي من إسطنبول.",
+    "fr": "Une célèbre avenue de shopping et de promenade sur la rive asiatique d'Istanbul.",
+    "es": "Una famosa avenida de compras y paseo en el lado asiático de Estambul.",
+    "zh": "伊斯坦布尔亚洲一侧著名的购物与漫步大道。",
+    "it": "Una famosa via dello shopping e del passeggio sul lato asiatico di Istanbul.",
+    "ja": "イスタンブールのアジア側にある有名なショッピング＆散策ストリート。"
+  },
+  "Polonezköy": {
+    "de": "Ein friedliches, bewaldetes Dorf, bekannt als ruhiger Rückzugsort von der Stadt.",
+    "ru": "Тихая лесная деревня, известная как спокойное убежище от городской суеты.",
+    "ar": "قرية هادئة وسط الغابات، تُعرف بأنها ملاذ هادئ بعيداً عن المدينة.",
+    "fr": "Un village paisible et boisé, connu comme un refuge tranquille loin de la ville.",
+    "es": "Un pueblo tranquilo y boscoso, conocido como un refugio silencioso lejos de la ciudad.",
+    "zh": "宁静的林间村庄，是远离城市喧嚣的静谧去处。",
+    "it": "Un villaggio tranquillo e boscoso, noto come rifugio silenzioso lontano dalla città.",
+    "ja": "都会の喧騒から離れた静かな森の村。"
   }
 }
-
-
