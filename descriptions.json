@@ -8,5 +8,107 @@
     "zh": "伊斯坦布尔标志性的中世纪塔楼，可俯瞰全城美景。",
     "it": "L'iconica torre medievale di Istanbul con vista panoramica sulla città.",
     "ja": "イスタンブールを象徴する中世の塔。市街のパノラマビューが楽しめる。"
+  },
+    "Balat": {
+    "de": "Ein charmantes Viertel, berühmt für seine bunten Häuser und historischen Gassen.",
+    "ru": "Очаровательный район, известный своими разноцветными домами и историческими улочками.",
+    "ar": "حي ساحر يشتهر بمنازله الملونة وشوارعه التاريخية.",
+    "fr": "Un quartier charmant, célèbre pour ses maisons colorées et ses rues historiques.",
+    "es": "Un barrio encantador, famoso por sus casas coloridas y calles históricas.",
+    "zh": "以彩色房屋和历史街道闻名的迷人街区。",
+    "it": "Un quartiere affascinante, famoso per le sue case colorate e le strade storiche.",
+    "ja": "カラフルな家々と歴史的な街並みで知られる魅力的な地区。"
+  },
+  "Kız Kulesi": {
+    "de": "Eines der romantischsten Wahrzeichen Istanbuls, auf einer kleinen Insel im Bosporus gelegen.",
+    "ru": "Одна из самых романтичных достопримечательностей Стамбула, расположенная на островке в Босфоре.",
+    "ar": "أحد أكثر معالم إسطنبول رومانسية، يقع على جزيرة صغيرة في مضيق البوسفور.",
+    "fr": "L'un des monuments les plus romantiques d'Istanbul, situé sur un îlot du Bosphore.",
+    "es": "Uno de los monumentos más románticos de Estambul, situado en un islote del Bósforo.",
+    "zh": "坐落于博斯普鲁斯海峡小岛上，是伊斯坦布尔最浪漫的地标之一。",
+    "it": "Uno dei luoghi più romantici di Istanbul, situato su un isolotto del Bosforo.",
+    "ja": "ボスポラス海峡の小島に建つ、イスタンブールで最もロマンチックなランドマークの一つ。"
+  },
+  "Topkapı Sarayı": {
+    "de": "Der prächtige Palast, in dem die osmanischen Sultane jahrhundertelang lebten und regierten.",
+    "ru": "Великолепный дворец, где веками жили и правили османские султаны.",
+    "ar": "القصر الرائع الذي عاش وحكم فيه السلاطين العثمانيون لقرون.",
+    "fr": "Le magnifique palais où les sultans ottomans ont vécu et régné pendant des siècles.",
+    "es": "El magnífico palacio donde los sultanes otomanos vivieron y gobernaron durante siglos.",
+    "zh": "奥斯曼苏丹数百年来居住和统治的宏伟宫殿。",
+    "it": "Il magnifico palazzo dove i sultani ottomani vissero e governarono per secoli.",
+    "ja": "オスマン帝国のスルタンが何世紀にもわたり暮らし統治した壮麗な宮殿。"
+  },
+  "Binbirdirek Sarnıcı": {
+    "de": "Eine antike Zisterne aus byzantinischer Zeit mit beeindruckenden Säulen.",
+    "ru": "Древняя цистерна византийской эпохи с впечатляющими колоннами.",
+    "ar": "صهريج قديم يعود إلى العصر البيزنطي، يتميز بأعمدته الرائعة.",
+    "fr": "Une citerne antique datant de l'époque byzantine, aux colonnes remarquables.",
+    "es": "Una antigua cisterna de la época bizantina con columnas impresionantes.",
+    "zh": "一座可追溯至拜占庭时代的古老地下水宫，以壮观的石柱著称。",
+    "it": "Un'antica cisterna di epoca bizantina, caratterizzata da colonne notevoli.",
+    "ja": "ビザンツ時代に遡る古代の貯水槽。見事な柱が特徴。"
+  },
+  "Çamlıca Camii": {
+    "de": "Eine der größten Moscheen Istanbuls mit herrlichem Blick vom Hügel.",
+    "ru": "Одна из крупнейших мечетей Стамбула с потрясающим видом с холма.",
+    "ar": "أحد أكبر مساجد إسطنبول، يوفر إطلالات خلابة من قمة التل.",
+    "fr": "L'une des plus grandes mosquées d'Istanbul, offrant une vue splendide depuis la colline.",
+    "es": "Una de las mezquitas más grandes de Estambul, con vistas impresionantes desde la colina.",
+    "zh": "伊斯坦布尔最大的清真寺之一，从山顶可欣赏迷人景色。",
+    "it": "Una delle moschee più grandi di Istanbul, con viste mozzafiato dalla collina.",
+    "ja": "イスタンブール最大級のモスク。丘の上から絶景が望める。"
+  },
+  "Eyüp Sultan Camii": {
+    "de": "Eine der spirituell bedeutendsten Moscheen Istanbuls, besucht von Pilgern aus aller Welt.",
+    "ru": "Одна из самых духовно значимых мечетей Стамбула, которую посещают паломники со всего мира.",
+    "ar": "أحد أهم مساجد إسطنبول روحانيةً، يزوره الزوار من جميع أنحاء العالم.",
+    "fr": "L'une des mosquées les plus importantes spirituellement d'Istanbul, visitée par des pèlerins du monde entier.",
+    "es": "Una de las mezquitas de mayor importancia espiritual de Estambul, visitada por peregrinos de todo el mundo.",
+    "zh": "伊斯坦布尔最具精神意义的清真寺之一，吸引世界各地的朝圣者。",
+    "it": "Una delle moschee più significative dal punto di vista spirituale di Istanbul, visitata da pellegrini di tutto il mondo.",
+    "ja": "世界中から巡礼者が訪れる、イスタンブールで最も精神的に重要なモスクの一つ。"
+  },
+  "İstanbul Arkeoloji Müzesi": {
+    "de": "Ein Weltklasse-Museum mit einer außergewöhnlichen Sammlung antiker Artefakte.",
+    "ru": "Музей мирового уровня с выдающейся коллекцией древних артефактов.",
+    "ar": "متحف عالمي المستوى يضم مجموعة استثنائية من القطع الأثرية القديمة.",
+    "fr": "Un musée de classe mondiale abritant une extraordinaire collection d'objets antiques.",
+    "es": "Un museo de clase mundial que alberga una extraordinaria colección de artefactos antiguos.",
+    "zh": "世界级博物馆，收藏着非凡的古代文物。",
+    "it": "Un museo di livello mondiale che ospita una straordinaria collezione di reperti antichi.",
+    "ja": "古代の遺物の素晴らしいコレクションを収蔵する世界クラスの博物館。"
+  },
+  "Kuzguncuk": {
+    "de": "Ein nostalgisches Viertel auf der asiatischen Seite, bekannt für bunte Straßen und freundliche Atmosphäre.",
+    "ru": "Ностальгический район на азиатской стороне, известный яркими улицами и дружелюбной атмосферой.",
+    "ar": "حي عريق على الجانب الآسيوي، معروف بشوارعه الملونة وأجوائه الودية.",
+    "fr": "Un quartier nostalgique sur la rive asiatique, connu pour ses rues colorées et son ambiance conviviale.",
+    "es": "Un barrio nostálgico en el lado asiático, conocido por sus calles coloridas y ambiente acogedor.",
+    "zh": "位于亚洲一侧的怀旧街区，以多彩的街道和友好的氛围闻名。",
+    "it": "Un quartiere nostalgico sulla sponda asiatica, noto per le strade colorate e l'atmosfera accogliente.",
+    "ja": "アジア側にあるノスタルジックな地区。カラフルな通りと温かい雰囲気で知られる。"
+  },
+  "Ortaköy": {
+    "de": "Ein beliebtes Uferviertel mit herrlichem Bosporusblick und lebendigem Straßenleben.",
+    "ru": "Популярный прибрежный район с прекрасным видом на Босфор и оживлённой уличной жизнью.",
+    "ar": "حي شهير على الواجهة البحرية بإطلالات خلابة على البوسفور وحياة نابضة بالحيوية.",
+    "fr": "Un quartier populaire au bord de l'eau, avec de superbes vues sur le Bosphore et une vie de rue animée.",
+    "es": "Un popular barrio junto al mar con impresionantes vistas del Bósforo y una vibrante vida callejera.",
+    "zh": "热门的海滨街区，拥有迷人的博斯普鲁斯海峡景色和充满活力的街头生活。",
+    "it": "Un vivace quartiere sul lungomare con splendide viste sul Bosforo e un'animata vita di strada.",
+    "ja": "ボスポラス海峡の絶景と活気ある街並みが魅力の人気ウォーターフロント地区。"
+  },
+  "Sultanahmet Meydanı": {
+    "de": "Das historische Herz Istanbuls, umgeben von weltberühmten Sehenswürdigkeiten.",
+    "ru": "Историческое сердце Стамбула, окружённое всемирно известными памятниками.",
+    "ar": "القلب التاريخي لإسطنبول، تحيط به معالم وآثار عالمية الشهرة.",
+    "fr": "Le cœur historique d'Istanbul, entouré de monuments mondialement célèbres.",
+    "es": "El corazón histórico de Estambul, rodeado de monumentos de fama mundial.",
+    "zh": "伊斯坦布尔的历史中心，周围环绕着举世闻名的地标和古迹。",
+    "it": "Il cuore storico di Istanbul, circondato da monumenti famosi in tutto il mondo.",
+    "ja": "世界的に有名な名所や記念碑に囲まれた、イスタンブールの歴史の中心地。"
   }
 }
+
+
